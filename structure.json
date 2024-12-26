@@ -1,0 +1,144 @@
+{
+    "documentation_tree": {
+      "root_path": "amazon_help_pages_us",
+      "sections": [
+        {
+          "title": "Get started with Fulfillment by Amazon FBA",
+          "path": "amazon_help_pages_us/Get started with Fulfillment by Amazon FBA",
+          "documents": [
+            {
+              "title": "Ship products to Amazon",
+              "filename": "Ship products to Amazon.md",
+              "url": "https://sellercentral.amazon.com/help/hub/reference/G200141420",
+              "context": {
+                "section_type": "core_fba",
+                "position": "foundation",
+                "prerequisites": [],
+                "followed_by": [
+                  "FBA inventory",
+                  "FBA policies and requirements"
+                ],
+                "related_topics": [
+                  "Multi-Location Inventory MLI",
+                  "Seller Fulfilled Prime"
+                ]
+              }
+            },
+            {
+              "title": "FBA policies and requirements",
+              "filename": "FBA policies and requirements.md",
+              "url": "https://sellercentral.amazon.com/help/hub/reference/G201030350",
+              "context": {
+                "section_type": "core_fba",
+                "position": "foundation",
+                "prerequisites": [
+                  "Ship products to Amazon"
+                ],
+                "related_topics": [
+                  "Seller Fulfilled Prime",
+                  "Amazon Custom returns policies"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Seller Flex and Alternative Fulfillment",
+          "path": "amazon_help_pages_us/Seller Flex and Alternative Fulfillment",
+          "documents": [
+            {
+              "title": "Seller Fulfilled Prime",
+              "filename": "Seller Fulfilled Prime.md",
+              "url": "https://sellercentral.amazon.com/help/hub/reference/G201812230",
+              "context": {
+                "section_type": "alternative_fulfillment",
+                "position": "foundation",
+                "prerequisites": [
+                  "FBA policies and requirements"
+                ],
+                "related_topics": [
+                  "Amazon Custom returns policies",
+                  "Multi-Location Inventory MLI"
+                ],
+                "referenced_by": [
+                  "Amazon Custom returns policies"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Service and Delivery Management",
+          "path": "amazon_help_pages_us/Service and Delivery Management",
+          "documents": [
+            {
+              "title": "Amazon Custom returns policies",
+              "filename": "Amazon Custom returns policies.md",
+              "url": "https://sellercentral.amazon.com/help/hub/reference/G37HSKLMSZXZNWGS",
+              "context": {
+                "section_type": "service_management",
+                "position": "operational",
+                "prerequisites": [
+                  "Seller Fulfilled Prime"
+                ],
+                "cross_references": [
+                  {
+                    "type": "internal",
+                    "links": [
+                      {
+                        "title": "File a reimbursement (SAFE-T) claim",
+                        "path": "/gp/help/202109110"
+                      },
+                      {
+                        "title": "Holiday Returns Policy",
+                        "path": "/gp/help/201725760"
+                      },
+                      {
+                        "title": "Manage returns",
+                        "path": "/gp/help/200708210"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "external",
+                    "links": [
+                      {
+                        "title": "About Our Returns Policies",
+                        "url": "https://www.amazon.com/gp/help/customer/display.html/?nodeId=15015721"
+                      }
+                    ]
+                  }
+                ],
+                "related_guides": {
+                  "title": "Custom Products Help page guide",
+                  "pages": [
+                    "Custom Products",
+                    "Custom Listing Guide",
+                    "Enabling Bulk Customizations",
+                    "Custom: Text customization",
+                    "Custom: Image customization",
+                    "Custom: Product configuration",
+                    "Fulfilling an Order using Amazon Custom"
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": {
+        "relationships": {
+          "fulfillment_hierarchy": {
+            "primary": "FBA",
+            "alternatives": ["Seller Fulfilled Prime", "Multi-Location Inventory"],
+            "supporting": ["Custom returns", "Delivery Services"]
+          },
+          "document_types": {
+            "foundation": ["policies", "requirements", "getting started"],
+            "operational": ["returns", "delivery", "inventory"],
+            "reference": ["FAQ", "best practices", "guides"]
+          }
+        }
+      }
+    }
+  }

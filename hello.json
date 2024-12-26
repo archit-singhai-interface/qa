@@ -1,0 +1,104 @@
+{
+  "sections": [
+    {
+      "heading": "Get started with Fulfillment by Amazon (FBA)",
+      "subheadings": [
+        {
+          "text": "FBA Global Selling",
+          "url": "https://sellercentral.amazon.com/help/hub/reference/G5KV5DGG6UMQAKL4"
+        },
+        {
+          "text": "Ship products to Amazon",
+          "url": "https://sellercentral.amazon.com/help/hub/reference/G200141420"
+        },
+        {
+          "text": "FBA policies and requirements",
+          "url": "https://sellercentral.amazon.com/help/hub/reference/G201030350"
+        },
+        {
+          "text": "FBA features, services, and fees",
+          "url": "https://sellercentral.amazon.com/help/hub/reference/G201074400"
+        },
+        {
+          "text": "FBA inventory",
+          "url": "https://sellercentral.amazon.com/help/hub/reference/G201074410"
+        },
+        {
+          "text": "Multi-Channel Fulfillment: Fulfill orders for your sales channels",
+          "url": "https://sellercentral.amazon.com/help/hub/reference/G200332450"
+        },
+        {
+          "text": "Amazon Warehousing and Distribution (AWD)",
+          "url": "https://sellercentral.amazon.com/help/hub/reference/GF6ZC8VEBM7HCEGV"
+        },
+        {
+          "text": "FBA peak readiness playbook",
+          "url": "https://sellercentral.amazon.com/help/hub/reference/G4QH4XCRWUXRJBLY"
+        }
+      ]
+    },
+    {
+      "heading": "Seller Flex and Alternative Fulfillment",
+      "subheadings": [
+        {
+          "text": "Seller-fulfilled shipping",
+          "url": "https://sellercentral.amazon.com/help/hub/reference/G200342080"
+        },
+        {
+          "text": "Seller Fulfilled Prime",
+          "url": "https://sellercentral.amazon.com/help/hub/reference/G201812230"
+        },
+        {
+          "text": "Multi-Location Inventory (MLI)",
+          "url": "https://sellercentral.amazon.com/help/hub/reference/GJTDKPYEPQCXNS6M"
+        },
+        {
+          "text": "Get started with Multi-Location Inventory",
+          "url": "https://sellercentral.amazon.com/help/hub/reference/GYCAQ9XRL273EVDX"
+        }
+      ]
+    },
+    {
+      "heading": "Inventory Management Tools",
+      "subheadings": [
+        {
+          "text": "Create and manage offers",
+          "url": "https://sellercentral.amazon.com/help/hub/reference/GFQ8J5JPKERTHQPP"
+        },
+        {
+          "text": "Manage your offers in bulk",
+          "url": "https://sellercentral.amazon.com/help/hub/reference/G9DZLGS87GVDT94B"
+        },
+        {
+          "text": "Custom Report Builder",
+          "url": "https://sellercentral.amazon.com/help/hub/reference/GEQ8JEWH5KJC5QCG"
+        },
+        {
+          "text": "Restock recommendation",
+          "url": "https://sellercentral.amazon.com/help/hub/reference/GRG6KMB257N2XXNQ"
+        }
+      ]
+    },
+    {
+      "heading": "Service and Delivery Management",
+      "subheadings": [
+        {
+          "text": "Delivery with Services - FAQ",
+          "url": "https://sellercentral.amazon.com/help/hub/reference/GG693BAJ9NUV8F6N"
+        },
+        {
+          "text": "Delivery with Services - Orders",
+          "url": "https://sellercentral.amazon.com/help/hub/reference/GB5PYDG7MC7FHSRZ"
+        },
+        {
+          "text": "Amazon Custom returns policies",
+          "url": "https://sellercentral.amazon.com/help/hub/reference/G37HSKLMSZXZNWGS"
+        },
+        {
+          "text": "Service order best practices",
+          "url": "https://sellercentral.amazon.com/help/hub/reference/GTP5RCSXC62A7SUG"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+version: '3.8'
+
+services:
+  frontend:
+    build:
+      context: ./client
+      dockerfile: Dockerfile
+    container_name: qa-bot-frontend
+    volumes:
+      - frontend_build:/usr/share/nginx/html
+
+  backend:
+    build:
+      context: ./server
+      dockerfile: Dockerfile
+    container_name: qa-bot-backend
+    env_file:
+      - .env
+    networks:
+      - app-network
+
+  nginx:
+    image: nginx:alpine
+    container_name: qa-bot-nginx
+    ports:
+      - "1337:80"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+      - frontend_build:/usr/share/nginx/html
+    networks:
+      - app-network
+    depends_on:
+      - frontend
+      - backend
+
+networks:
+  app-network:
+    driver: bridge
+
+volumes:
+  frontend_build:

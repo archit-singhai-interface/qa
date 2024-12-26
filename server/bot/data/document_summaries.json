@@ -1,0 +1,155 @@
+{
+  "last_updated": "2024-12-24T15:17:11.862574",
+  "documents": {
+    "/home/dumball/Downloads/interface-qa-bot-main/server/bot/data/policies/Self-ship lost and damaged Reimbursement policy.md": {
+      "name": "Self-ship lost and damaged Reimbursement policy.md",
+      "summary": "On this page [Reimbursements for damaged or wrong returns](https://sellercentral.amazon.in/help/hub/reference/G201310610#mnd_2jc_jcb-1) Amazon does not take any liability for products that are damaged or lost in the seller\u2019s premises and will not pay for or entertain any claims for reimbursement from sellers to that effect. This policy only addresses orders that were shipped on Self-Ship programme where the customer return picked by Amazon was either not returned to the seller (lost in transit) or returned by Amazon in an unsellable condition (damaged). In both these scenarios, your selling account should have already been debited to pay the customer refund.",
+      "size": 8136,
+      "last_modified": "2024-12-21T02:07:28"
+    },
+    "/home/dumball/Downloads/interface-qa-bot-main/server/bot/data/policies/Reimbursement Report Definitions.md": {
+      "name": "Reimbursement Report Definitions.md",
+      "summary": "## Reimbursement Report Definitions Sellers can view the definitions for the various reimbursement types found on the Reimbursement Report. <table> <thead>",
+      "size": 1504,
+      "last_modified": "2024-12-21T02:07:28"
+    },
+    "/home/dumball/Downloads/interface-qa-bot-main/server/bot/data/policies/FBA-FC reimbursement rate of damaged product and grade-based reimbursement.md": {
+      "name": "FBA-FC reimbursement rate of damaged product and grade-based reimbursement.md",
+      "summary": "<table> <caption>Table 1. Reimbursement rate for all products</caption> <thead> <tr> <th>Category</th>",
+      "size": 17475,
+      "last_modified": "2024-12-21T02:07:28"
+    },
+    "/home/dumball/Downloads/interface-qa-bot-main/server/bot/data/policies/FBA-FC Switcheroo or Materially Different Return Inventory Reimbursement Policy.md": {
+      "name": "FBA-FC Switcheroo or Materially Different Return Inventory Reimbursement Policy.md",
+      "summary": "On this page [FBA-FC Switcheroo or Materially Different Return Inventory Reimbursement Policy](https://sellercentral.amazon.in/help/hub/reference/G201310610#mnd_2jc_jcb__section_wvy_3sw_lnb) ## FBA-FC Switcheroo or Materially Different Return Inventory Reimbursement Policy",
+      "size": 2550,
+      "last_modified": "2024-12-21T02:07:28"
+    },
+    "/home/dumball/Downloads/interface-qa-bot-main/server/bot/data/policies/Grade based description for reimbursement.md": {
+      "name": "Grade based description for reimbursement.md",
+      "summary": "<table> <caption>Definition of item grades and corresponding colour codes for Mobiles, Laptops and H&amp;B (Air Conditioner, Refrigeration, Washing Machines, Dishwashers, Cooking Appliances)</caption> <thead> <tr> <th>Item grade</th>",
+      "size": 5467,
+      "last_modified": "2024-12-21T02:07:28"
+    },
+    "/home/dumball/Downloads/interface-qa-bot-main/server/bot/data/policies/FBA and Seller Flex refund and reimbursement policy for non-returnable products.md": {
+      "name": "FBA and Seller Flex refund and reimbursement policy for non-returnable products.md",
+      "summary": "Until 15 November, 2021, we will evaluate seller-controllable return rates (SCRR) for non-returnable products at a category level. Starting 16 November, 2021, the SCRR for non-returnable products will be evaluated at both the category level and the product (ASIN) level. We will provide you with a category and ASIN target SCRR percentage, and if your category-level or your ASIN-level SCRR percentage is higher than the respective target percentage, you may be charged for the refund issued to buyers. For the first evaluation of the revised SCRR policy going into effect 16 November, 2021, the assessment period will be for 30 days. We will review orders that are shipped between 16 November, 2021 and 15 December, 2021, and any SCRR refunds for these orders will be paid out between 16 November, 2021 and 31 December, 2021. #### Q1. What is the concession policy for non-returnable products?",
+      "size": 8328,
+      "last_modified": "2024-12-21T02:07:28"
+    },
+    "/home/dumball/Downloads/interface-qa-bot-main/server/bot/data/policies/FBA-FC Reimbursement FAQ.md": {
+      "name": "FBA-FC Reimbursement FAQ.md",
+      "summary": "## General FAQ #### 1\\. How is the Fair Market Value Estimated? We consider several factors when determining an item's fair market value, including your sales history, the average FBA selling price on Amazon, the applicable Amazon grading standards, the sales history of the specific ASIN and the applicable rate of taxes etc. If we don\u2019t have enough information to calculate the reimbursement amount for an item, we will assign a value to your inventory based on similar items.",
+      "size": 8937,
+      "last_modified": "2024-12-21T02:07:28"
+    },
+    "/home/dumball/Downloads/interface-qa-bot-main/server/bot/data/policies/How to view the reimbursements issued on SAFE-T Claim.md": {
+      "name": "How to view the reimbursements issued on SAFE-T Claim.md",
+      "summary": "1.  For **Easy Ship and Self-Ship:** You can view the reimbursements processed through SAFE-T Claim by searching with Order ID in the [Payments](https://sellercentral.amazon.in/payments/reports/statement/details?_encoding=UTF8&ref_=ag_payments_dnav_xx_) section under the **Reports** tab and also on the [Manage SAFE-T Claims](https://sellercentral.amazon.in/safet-claims/ref=xx_safet_dnav_xx) page. 2.  **For Seller Flex:** You can view the reimbursements processed through SAFE-T Claim by searching with the Order ID in the Reports > Fulfilment > [Reimbursements Report](https://sellercentral.amazon.in/reportcentral/REIMBURSEMENTS/0) section. **Note:** For Seller Flex Claims, the claim amount and issued amount might reflect INR 0 on the[Manage SAFE-T Claims](https://sellercentral.amazon.in/safet-claims/ref=xx_safet_dnav_xx) page. This is due to an ongoing change to the interface. Request you to use the Reimbursements [Report](https://sellercentral.amazon.in/reportcentral/REIMBURSEMENTS/0) section as mentioned above to verify the reimbursed amount.",
+      "size": 1086,
+      "last_modified": "2024-12-21T02:07:28"
+    },
+    "/home/dumball/Downloads/interface-qa-bot-main/server/bot/data/policies/Seller Flex Reimbursements policy.md": {
+      "name": "Seller Flex Reimbursements policy.md",
+      "summary": "## Seller Flex Reimbursements policy Amazon does not take any liability for products that are damaged or lost in the seller\u2019s premises and will not pay for or entertain any claims for reimbursement from sellers to that effect. This policy only addresses cases wherein an item that was handed over to Amazon for fulfilment using the Seller Flex programme was either not returned to the seller (lost in transit) or returned by Amazon in an unsellable condition (damaged). In both these scenarios, the seller account should have already been debited to pay the customer refund. -   [SAFE-T Policy](https://sellercentral.amazon.in/gp/help/G201988660)",
+      "size": 1074,
+      "last_modified": "2024-12-21T02:07:28"
+    },
+    "/home/dumball/Downloads/interface-qa-bot-main/server/bot/data/policies/Lost and damaged inventory reimbursement policy.md": {
+      "name": "Lost and damaged inventory reimbursement policy.md",
+      "summary": "Amazon does not take any liability for products that are damaged or lost in the seller\u2019s premises and will not pay for or entertain any claims for reimbursement from sellers to that effect. This policy only addresses cases wherein an item that was handed over to Amazon for fulfilment using the Easy Ship programme was either not returned to the seller (lost in transit) or returned by Amazon in an unsellable condition (damaged). In both these scenarios, the seller account should have already been debited to pay the customer refund. For returns and refund related topics, go to [Returns and Refund Policy](https://sellercentral.amazon.in/gp/help/G201723330). ## Lost item reimbursement",
+      "size": 11310,
+      "last_modified": "2024-12-21T02:07:28"
+    },
+    "/home/dumball/Downloads/interface-qa-bot-main/server/bot/data/policies/FBA fee reimbursement policy for sellers with replicated inventory.md": {
+      "name": "FBA fee reimbursement policy for sellers with replicated inventory.md",
+      "summary": "Effective from December 01, 2020, there is a change in the FBA fee reimbursement policy in the method used to determine the reimbursement amount for weight handling fee for sellers who replicate inventory across regions. As per the revised methodology, Amazon will reimburse INR 20 (plus 18% GST) computed for every shipment instead of units, shipped nationally. This change is in-line with our Weight Handling Fee Changes which were effective from December 01, 2020. On the basis of the new policy, seller needs to have replicated sellable inventory available in the same region (as classified below) as of the customer delivery location for all the ASINs (in the shipped quantity) in that shipment. <table><tbody><tr><td>Region 1</td><td><p>Chandigarh, Delhi, Haryana, Himachal Pradesh, Jammu and Kashmir, Punjab,</p><p>Rajasthan, Uttar Pradesh-Zone A*, Uttarakhand</p></td></tr><tr><td>Region 2</td><td>Dadra and Nagar, Diu and Daman, Gujarat, Madhya Pradesh, Maharashtra</td></tr><tr><td>Region 3</td><td><p>Andaman and Nicobar, Andhra Pradesh, Goa, Karnataka, Kerala, Pondicherry,</p><p>Tamil Nadu, Telangana, Lakshadweep</p></td></tr><tr><td>Region 4</td><td><p>Arunachal Pradesh, Assam, Bihar, Chhattisgarh, Jharkhand, Manipur, Meghalaya,</p><p>Mizoram, Nagaland, Odisha, Sikkim, Tripura, Uttar Pradesh-Zone B**, West Bengal</p></td></tr></tbody></table> **\\*\\*Uttar Pradesh-Zone B:** The following administrative divisions will be considered as part of 'Uttar Pradesh-Zone B' - Ayodhya, Azamgarh, Basti, Devipatan, Gorakhpur, Mirzapur, Prayagraj and Varanasi.",
+      "size": 4220,
+      "last_modified": "2024-12-21T02:07:28"
+    },
+    "/home/dumball/Downloads/interface-qa-bot-main/server/bot/data/policies/Amazon Seller Flex - Incorrect Weight and Dimensions Policy.md": {
+      "name": "Amazon Seller Flex - Incorrect Weight and Dimensions Policy.md",
+      "summary": "This page provides information about the additional logistics fee that may be charged to a Seller Flex seller if incorrect details regarding weight and dimensions are provided by the seller in Amazon systems for Seller Flex orders. As a Seller Flex seller, you acknowledge and agree that as part of the Seller Flex Program, you are responsible for providing accurate weight and dimension details in Amazon systems for your Seller Flex orders. Note however, that provision of incorrect information regarding weight and dimensions of the product may not only require more time for fulfilment but also cause logistical expense for Amazon. Therefore, in the event you are found to be providing incorrect information for the abovementioned details, you hereby agree and acknowledge that Amazon shall have the right:",
+      "size": 2728,
+      "last_modified": "2024-12-21T02:07:28"
+    },
+    "/home/dumball/Downloads/interface-qa-bot-main/server/bot/data/policies/FBA Reimbursement Policy For Fulfillment Centres (FC).md": {
+      "name": "FBA Reimbursement Policy For Fulfillment Centres (FC).md",
+      "summary": "-   [FBA-FC Lost Inventory Reimbursement Policy](https://sellercentral.amazon.in/gp/help/GQQUAYV9TRHDC32U) -   [FBA-FC Damaged Inventory Reimbursement Policy](https://sellercentral.amazon.in/gp/help/200213130) -   [FBA - FC Reimbursement Rate of Damaged Products and Grade Based Reimbursements](https://sellercentral.amazon.in/gp/help/202061610) -   [FBA-FC Switcheroo/Materially Different Return Inventory Reimbursement Policy](https://sellercentral.amazon.in/gp/help/GBJ6KPAEGQRWK63N) -   [Reimbursement Policy for Fees of Undelivered and Customer Reject Shipments and Incorrect Weight Handling](https://sellercentral.amazon.in/gp/help/202123700)",
+      "size": 1978,
+      "last_modified": "2024-12-21T02:07:28"
+    },
+    "/home/dumball/Downloads/interface-qa-bot-main/server/bot/data/policies/FBA Undelivered Order reimbursements report.md": {
+      "name": "FBA Undelivered Order reimbursements report.md",
+      "summary": "The Undelivered Order Reimbursements [Report](https://sellercentral.amazon.in/reports/Undelivered_Order_Reimbursement_Report) provides itemised details for all Amazon fulfilled orders which have been returned to the fulfilment centres as undelivered, and the corresponding reimbursements issued against such orders, in accordance with the reimbursement [policy](https://sellercentral.amazon.in/gp/help/G202123700) for undelivered shipments. Note the following points with respect to this report: -   The Undelivered Order Reimbursements Report is generated twice a month.",
+      "size": 2826,
+      "last_modified": "2024-12-21T02:07:28"
+    },
+    "/home/dumball/Downloads/interface-qa-bot-main/server/bot/data/policies/Easy Ship and Self Ship refund and reimbursement policy for non-returnable products.md": {
+      "name": "Easy Ship and Self Ship refund and reimbursement policy for non-returnable products.md",
+      "summary": "Until 15 November, 2021, we will evaluate seller-controllable return rates (SCRR) for non-returnable products at a category level. Starting 16 November, 2021, the SCRR for non-returnable products will be evaluated at both the category level and the product (ASIN) level. We will provide you with a category and ASIN target SCRR percentage, and if your category-level or your ASIN-level SCRR percentage is higher than the respective target percentage, you may be charged for the refund issued to buyers. For the first evaluation of the revised SCRR policy going into effect 16 November, 2021, the assessment period will be for 30 days. We will review orders that are shipped between 16 November, 2021 and 15 December, 2021, and any SCRR refunds for these orders will be paid out between 16 November, 2021 and 31 December, 2021. #### Q1. What is the concession policy for non-returnable products?",
+      "size": 8328,
+      "last_modified": "2024-12-21T02:07:28"
+    },
+    "/home/dumball/Downloads/interface-qa-bot-main/server/bot/data/policies/Fees - Return and refund policies.md": {
+      "name": "Fees - Return and refund policies.md",
+      "summary": "<table> <thead> <tr> <th>S.No</th> <th>Reimbursement Scenario</th>",
+      "size": 1752,
+      "last_modified": "2024-12-21T02:07:28"
+    },
+    "/home/dumball/Downloads/interface-qa-bot-main/server/bot/data/policies/FBA lost inventory reimbursement policy\n.md": {
+      "name": "FBA lost inventory reimbursement policy\n.md",
+      "summary": "This process is used to address your concerns if your item is lost in the Amazon network while on the way to getting delivered to the customer, or on the way to return to fulfilment centre as Customer return or Reject items. The reimbursement will be issued automatically if the unit is not returned to the fulfilment centre within 45 days from the date of refund to customer. If we have previously reimbursed you for lost inventory that is subsequently found, or otherwise determine that the reimbursement was given by mistake, then you authorise us to reverse the credit that was applied to your account. For more details on this policy, go to [Reimbursements FAQ](https://sellercentral.amazon.in/gp/help/DC45KH55MEW85WT). ## Missing from Inbound (MFI)",
+      "size": 3108,
+      "last_modified": "2024-12-21T02:07:28"
+    },
+    "/home/dumball/Downloads/interface-qa-bot-main/server/bot/data/policies/Fee policy for undelivered, customer reject and replacement shipments.md": {
+      "name": "Fee policy for undelivered, customer reject and replacement shipments.md",
+      "summary": "## Undelivered and customer rejected shipments Amazon will reimburse the following fees inclusive of taxes for all undelivered FBA and Easy Ship units, and customer rejected units: -   Easy Ship shipping fee for Easy Ship order",
+      "size": 7968,
+      "last_modified": "2024-12-21T02:07:28"
+    },
+    "/home/dumball/Downloads/interface-qa-bot-main/server/bot/data/policies/Seller Flex fees.md": {
+      "name": "Seller Flex fees.md",
+      "summary": "## Gift wrap You can authorise us to determine on your behalf the amount that the customer should be charged for gift wrap services of units listed under Flex Central. The amount charged to the customer will be collected by us and will be credited to your account. ## Seller Flex rate card",
+      "size": 15856,
+      "last_modified": "2024-12-21T02:07:28"
+    },
+    "/home/dumball/Downloads/interface-qa-bot-main/server/bot/data/policies/Fulfilment Fees.md": {
+      "name": "Fulfilment Fees.md",
+      "summary": "FBA can fulfil orders placed on [Amazon.in](https://sellercentral.amazon.in/). See below for more information. An item is classified as 'Heavy & Bulky' if it meets one or more of the following criteria: -   Item from categories, such as washing machines, refrigerator, air conditioner, microwave, chimney, dishwashers, television, treadmills, cycles (wheel diameter > 20\u201d or 50.8 cm), large furniture (for example, beds, sofa sets, wardrobes, and so on), deep freezers, printers, monitors, soundbars",
+      "size": 19650,
+      "last_modified": "2024-12-21T02:07:28"
+    },
+    "/home/dumball/Downloads/interface-qa-bot-main/server/bot/data/policies/Documents required for various Reimbursement Requests.md": {
+      "name": "Documents required for various Reimbursement Requests.md",
+      "summary": "Here is the list of documents required from sellers for Reimbursement Requests under various scenarios. Read the following to identify all supporting documents and evidence required while contacting us for reimbursements. #### Missing from Inbound",
+      "size": 2377,
+      "last_modified": "2024-12-21T02:07:28"
+    },
+    "/home/dumball/Downloads/interface-qa-bot-main/server/bot/data/policies/Removal Packages Acceptance Guidelines Governing Reimbursement Claims.md": {
+      "name": "Removal Packages Acceptance Guidelines Governing Reimbursement Claims.md",
+      "summary": "## Differentiating a removal order ID and shipment ID A new removal order generates a removal order ID. To optimally process your removal orders, it is sometimes split and processed in multiple shipments. The split is governed by multiple factors such as the quantity, volume and weight of the inventory requested to be removed. Each of these shipments have a common removal order ID, unique shipment IDs and corresponding tracking IDs using which you can track the estimated delivery date for the respective shipment. The processing of your removal order can be considered complete if all shipments associated with your removal order have been delivered successfully. **Example**: If you want to remove 100 units of ASIN B00XXXXXX for removal order xi2j96XXXX, it can be processed in two shipments, 12345XXXX and 5678XXXX respectively with each shipment containing 50 units of the product each.",
+      "size": 5857,
+      "last_modified": "2024-12-21T02:07:28"
+    },
+    "/home/dumball/Downloads/interface-qa-bot-main/server/bot/data/policies/FBA-FC Damaged Inventory Reimbursement Policy.md": {
+      "name": "FBA-FC Damaged Inventory Reimbursement Policy.md",
+      "summary": "<table><tbody><tr><td><a href=\"https://sellercentral.amazon.in/gp/help/GM6MLAJAE7538YWF\" target=\"_blank\">Home</a></td><td><a href=\"https://sellercentral.amazon.in/gp/help/GQQUAYV9TRHDC32U\" target=\"_blank\">Lost</a></td><td><a href=\"https://sellercentral.amazon.in/gp/help/200213130\" target=\"_blank\">Damaged</a></td><td><a href=\"https://sellercentral.amazon.in/gp/help/GBJ6KPAEGQRWK63N\" target=\"_blank\">Switcheroo/Materially Different Return</a></td><td><a href=\"https://share.amazon.com/sites/Safet/_layouts/15/WopiFrame2.aspx?sourcedoc=%7b9de032e6-b1bb-4d59-87bf-3573ed48c35a%7d&amp;action=edit&amp;source=https%3A%2F%2Fshare%2Eamazon%2Ecom%2Fsites%2FSafet%2FShared%2520Documents%2FForms%2FAllItems%2Easpx%3FRootFolder%3D%252Fsites%252FSafet%252FShared%2520Documents%252FFBA%2520FC%2520Reimbursement%2520Help%2520Page%2520Revamp%252FFinal%26FolderCTID%3D0x012000002617D658DE6C4185E44718F2400E31%26View%3D%257BD86AF702%252D1D4C%252D4B8A%252D97BC%252D1DFB95861C7F%257D\" target=\"_blank\">Fee Reimbursement</a></td></tr></tbody></table> Please refer to [COVID-19 Reimbursements Policy](https://sellercentral.amazon.in/gp/help/G8PJDJKTK3U82L7W) help page for temporary changes to the policy owing to COVID-19. Use the self-service FBA Reimbursement tool to understand if your order is eligible for a reimbursement.",
+      "size": 11403,
+      "last_modified": "2024-12-21T02:07:28"
+    },
+    "/home/dumball/Downloads/interface-qa-bot-main/server/bot/data/policies/Reimbursement rates for Safe-T claims.md": {
+      "name": "Reimbursement rates for Safe-T claims.md",
+      "summary": "## Requirement matrix for SAFE-T claims The different documents required to process SAFE-T claims are mentioned in the following table. The requirement matrix is aimed at improving the seller experience and reducing the processing time for reimbursement requests. It identifies different scenarios in which a seller may raise a reimbursement request. It also lists the various documents and evidence required by Amazon to process the request for each of these scenarios. Sellers can refer to the matrix to identify all supporting documents and evidence required while raising reimbursement requests, reducing the processing time.",
+      "size": 3007,
+      "last_modified": "2024-12-21T02:07:28"
+    },
+    "/home/dumball/Downloads/interface-qa-bot-main/server/bot/data/policies/Easy Ship replacements.md": {
+      "name": "Easy Ship replacements.md",
+      "summary": "#### How do I identify a replacement/exchange order in an account? You can identify a replacement/exchange order from the **Manage your orders** page. A **Replacement/Exchange** badge is present next to the order ID, similar to the **Cash on Delivery** badge. Refer to the following screenshot:",
+      "size": 4543,
+      "last_modified": "2024-12-21T02:07:28"
+    }
+  }
+}

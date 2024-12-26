@@ -1,0 +1,33 @@
+[tool.poetry]
+name = "interface-qa-bot"
+version = "0.1.0"
+description = "QA Bot for Policies"
+authors = ["kausthub-kannan <kausthubkannan961@gmail.com>"]
+readme = "README.md"
+
+packages = [
+    { include = "bot" },
+]
+
+[tool.poetry.dependencies]
+numpy = "^1.21.0"
+python = "^3.10"
+langchain = "^0.3.2"
+langchain-openai = "^0.2.2"
+tiktoken = "^0.8.0"
+faiss-cpu = "^1.9.0"
+langchain-community = "^0.3.1"
+pypdf2 = "^3.0.1"
+fastapi = "^0.115.0"
+uvicorn = "^0.31.0"
+markdown = "^3.7"
+rank-bm25 = "^0.2.2"
+scikit-learn = "^1.5.2"
+
+[tool.poetry.group.dev.dependencies]
+ruff = "^0.6.9"
+black = "^24.10.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

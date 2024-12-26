@@ -1,0 +1,6 @@
+1.  For **Easy Ship and Self-Ship:** You can view the reimbursements processed through SAFE-T Claim by searching with Order ID in the [Payments](https://sellercentral.amazon.in/payments/reports/statement/details?_encoding=UTF8&ref_=ag_payments_dnav_xx_) section under the **Reports** tab and also on the [Manage SAFE-T Claims](https://sellercentral.amazon.in/safet-claims/ref=xx_safet_dnav_xx) page.
+2.  **For Seller Flex:** You can view the reimbursements processed through SAFE-T Claim by searching with the Order ID in the Reports > Fulfilment > [Reimbursements Report](https://sellercentral.amazon.in/reportcentral/REIMBURSEMENTS/0) section.
+
+**Note:** For Seller Flex Claims, the claim amount and issued amount might reflect INR 0 on the[Manage SAFE-T Claims](https://sellercentral.amazon.in/safet-claims/ref=xx_safet_dnav_xx) page. This is due to an ongoing change to the interface. Request you to use the Reimbursements [Report](https://sellercentral.amazon.in/reportcentral/REIMBURSEMENTS/0) section as mentioned above to verify the reimbursed amount.
+
+Was this article helpful?
