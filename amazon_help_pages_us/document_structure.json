@@ -1,0 +1,1891 @@
+{
+  "documentation_tree": {
+    "root_path": "amazon_help_pages_us",
+    "sections": [
+      {
+        "title": "amazon_help_pages_us",
+        "path": "/home/dumball/Downloads/interface-qa-bot-main/amazon_help_pages_us/amazon_help_pages_us",
+        "documents": [
+          {
+            "title": "document_analysis_llm",
+            "filename": "document_analysis_llm.md",
+            "url": "https://sellercentral.amazon.com/help/hub/reference/G6B01FB0B9",
+            "context": {
+              "section_type": "general",
+              "position": "foundation",
+              "prerequisites": [],
+              "followed_by": [],
+              "related_topics": [],
+              "headings": [
+                {
+                  "level": 1,
+                  "text": "Document Analysis Report (LLM-Generated)"
+                },
+                {
+                  "level": 2,
+                  "text": "Documentation Structure"
+                },
+                {
+                  "level": 2,
+                  "text": "Overall Statistics"
+                },
+                {
+                  "level": 2,
+                  "text": "Topics by Section"
+                },
+                {
+                  "level": 3,
+                  "text": "Document in section: Get started with Fulfillment by Amazon FBA"
+                },
+                {
+                  "level": 3,
+                  "text": "Document in section: Service and Delivery Management"
+                },
+                {
+                  "level": 3,
+                  "text": "Document in section: Inventory Management Tools"
+                },
+                {
+                  "level": 3,
+                  "text": "Document in section: Seller Flex and Alternative Fulfillment"
+                },
+                {
+                  "level": 2,
+                  "text": "Document Summaries by Section"
+                },
+                {
+                  "level": 3,
+                  "text": "Document in section: Get started with Fulfillment by Amazon FBA"
+                },
+                {
+                  "level": 4,
+                  "text": "FBA Global Selling.md"
+                },
+                {
+                  "level": 3,
+                  "text": "Summary of the Document: FBA Global Selling"
+                },
+                {
+                  "level": 4,
+                  "text": "FBA inventory.md"
+                },
+                {
+                  "level": 3,
+                  "text": "Summary of the Document: Get Started with Fulfillment by Amazon (FBA) - FBA Inventory"
+                },
+                {
+                  "level": 4,
+                  "text": "1. Main Topics and Themes"
+                },
+                {
+                  "level": 4,
+                  "text": "2. Key Concepts Explained"
+                },
+                {
+                  "level": 4,
+                  "text": "3. Important Code Examples or Technical Details"
+                },
+                {
+                  "level": 4,
+                  "text": "4. Document Structure and Organization"
+                },
+                {
+                  "level": 4,
+                  "text": "5. How This Content Relates to Its Section"
+                },
+                {
+                  "level": 4,
+                  "text": "Amazon Warehousing and Distribution AWD.md"
+                },
+                {
+                  "level": 3,
+                  "text": "Summary of the Document: Get Started with Fulfillment by Amazon (FBA)"
+                },
+                {
+                  "level": 4,
+                  "text": "1. Main Topics and Themes"
+                },
+                {
+                  "level": 4,
+                  "text": "2. Key Concepts Explained"
+                },
+                {
+                  "level": 4,
+                  "text": "3. Important Code Examples or Technical Details"
+                },
+                {
+                  "level": 4,
+                  "text": "4. Document Structure and Organization"
+                },
+                {
+                  "level": 4,
+                  "text": "5. How This Content Relates to Its Section"
+                },
+                {
+                  "level": 4,
+                  "text": "Ship products to Amazon.md"
+                },
+                {
+                  "level": 3,
+                  "text": "Summary of the Document: Ship Products to Amazon"
+                },
+                {
+                  "level": 4,
+                  "text": "1. Main Topics and Themes"
+                },
+                {
+                  "level": 4,
+                  "text": "2. Key Concepts Explained"
+                },
+                {
+                  "level": 4,
+                  "text": "3. Important Code Examples or Technical Details"
+                },
+                {
+                  "level": 4,
+                  "text": "4. Document Structure and Organization"
+                },
+                {
+                  "level": 4,
+                  "text": "5. How This Content Relates to Its Section"
+                },
+                {
+                  "level": 4,
+                  "text": "Multi-Channel Fulfillment Fulfill orders for your sales channels.md"
+                },
+                {
+                  "level": 3,
+                  "text": "Summary of the Document: Multi-Channel Fulfillment: Fulfill orders for your sales channels"
+                },
+                {
+                  "level": 4,
+                  "text": "1. Main Topics and Themes"
+                },
+                {
+                  "level": 4,
+                  "text": "2. Key Concepts Explained"
+                },
+                {
+                  "level": 4,
+                  "text": "3. Important Code Examples or Technical Details"
+                },
+                {
+                  "level": 4,
+                  "text": "4. Document Structure and Organization"
+                },
+                {
+                  "level": 4,
+                  "text": "5. How This Content Relates to Its Section"
+                },
+                {
+                  "level": 4,
+                  "text": "FBA policies and requirements.md"
+                },
+                {
+                  "level": 3,
+                  "text": "Summary of the Document: FBA Policies and Requirements"
+                },
+                {
+                  "level": 4,
+                  "text": "1. Main Topics and Themes"
+                },
+                {
+                  "level": 4,
+                  "text": "2. Key Concepts Explained"
+                },
+                {
+                  "level": 4,
+                  "text": "3. Important Code Examples or Technical Details"
+                },
+                {
+                  "level": 4,
+                  "text": "4. Document Structure and Organization"
+                },
+                {
+                  "level": 4,
+                  "text": "5. How This Content Relates to Its Section"
+                },
+                {
+                  "level": 4,
+                  "text": "FBA features services and fees.md"
+                },
+                {
+                  "level": 3,
+                  "text": "Summary of the Document: FBA Features, Services, and Fees"
+                },
+                {
+                  "level": 4,
+                  "text": "1. Main Topics and Themes"
+                },
+                {
+                  "level": 4,
+                  "text": "2. Key Concepts Explained"
+                },
+                {
+                  "level": 4,
+                  "text": "3. Important Code Examples or Technical Details"
+                },
+                {
+                  "level": 4,
+                  "text": "4. Document Structure and Organization"
+                },
+                {
+                  "level": 4,
+                  "text": "5. How This Content Relates to Its Section"
+                },
+                {
+                  "level": 3,
+                  "text": "Document in section: Service and Delivery Management"
+                },
+                {
+                  "level": 4,
+                  "text": "Delivery with Services - FAQ.md"
+                },
+                {
+                  "level": 3,
+                  "text": "Summary of the Document: Delivery with Services - FAQ"
+                },
+                {
+                  "level": 4,
+                  "text": "Delivery with Services - Orders.md"
+                },
+                {
+                  "level": 3,
+                  "text": "Summary of Document: Delivery with Services - Orders"
+                },
+                {
+                  "level": 4,
+                  "text": "1. Main Topics and Themes"
+                },
+                {
+                  "level": 4,
+                  "text": "2. Key Concepts Explained"
+                },
+                {
+                  "level": 4,
+                  "text": "3. Important Code Examples or Technical Details"
+                },
+                {
+                  "level": 4,
+                  "text": "4. Document Structure and Organization"
+                },
+                {
+                  "level": 4,
+                  "text": "5. How This Content Relates to Its Section"
+                },
+                {
+                  "level": 4,
+                  "text": "Amazon Custom returns policies.md"
+                },
+                {
+                  "level": 3,
+                  "text": "Summary of Amazon Custom Returns Policies Document"
+                },
+                {
+                  "level": 4,
+                  "text": "1. Main Topics and Themes"
+                },
+                {
+                  "level": 4,
+                  "text": "2. Key Concepts Explained"
+                },
+                {
+                  "level": 4,
+                  "text": "3. Important Code Examples or Technical Details"
+                },
+                {
+                  "level": 4,
+                  "text": "4. Document Structure and Organization"
+                },
+                {
+                  "level": 4,
+                  "text": "5. How This Content Relates to Its Section"
+                },
+                {
+                  "level": 4,
+                  "text": "Service order best practices.md"
+                },
+                {
+                  "level": 3,
+                  "text": "Summary of the Document: Service Order Best Practices"
+                },
+                {
+                  "level": 4,
+                  "text": "1. Main Topics and Themes"
+                },
+                {
+                  "level": 4,
+                  "text": "2. Key Concepts Explained"
+                },
+                {
+                  "level": 4,
+                  "text": "3. Important Code Examples or Technical Details"
+                },
+                {
+                  "level": 4,
+                  "text": "4. Document Structure and Organization"
+                },
+                {
+                  "level": 4,
+                  "text": "5. How This Content Relates to Its Section"
+                },
+                {
+                  "level": 3,
+                  "text": "Document in section: Inventory Management Tools"
+                },
+                {
+                  "level": 4,
+                  "text": "Manage your offers in bulk.md"
+                },
+                {
+                  "level": 3,
+                  "text": "Summary of the Document"
+                },
+                {
+                  "level": 4,
+                  "text": "Custom Report Builder.md"
+                },
+                {
+                  "level": 3,
+                  "text": "Summary of the Custom Report Builder Document"
+                },
+                {
+                  "level": 4,
+                  "text": "1. Main Topics and Themes"
+                },
+                {
+                  "level": 4,
+                  "text": "2. Key Concepts Explained"
+                },
+                {
+                  "level": 4,
+                  "text": "3. Important Code Examples or Technical Details"
+                },
+                {
+                  "level": 4,
+                  "text": "4. Document Structure and Organization"
+                },
+                {
+                  "level": 4,
+                  "text": "5. How This Content Relates to Its Section"
+                },
+                {
+                  "level": 4,
+                  "text": "Create and manage offers.md"
+                },
+                {
+                  "level": 3,
+                  "text": "Summary of the Document: \"Create and Manage Offers\""
+                },
+                {
+                  "level": 4,
+                  "text": "Restock recommendation.md"
+                },
+                {
+                  "level": 3,
+                  "text": "Summary of the Document on Restock Recommendation"
+                },
+                {
+                  "level": 4,
+                  "text": "1. Main Topics and Themes"
+                },
+                {
+                  "level": 4,
+                  "text": "2. Key Concepts Explained"
+                },
+                {
+                  "level": 4,
+                  "text": "3. Important Code Examples or Technical Details"
+                },
+                {
+                  "level": 4,
+                  "text": "4. Document Structure and Organization"
+                },
+                {
+                  "level": 4,
+                  "text": "5. How This Content Relates to Its Section"
+                },
+                {
+                  "level": 3,
+                  "text": "Document in section: Seller Flex and Alternative Fulfillment"
+                },
+                {
+                  "level": 4,
+                  "text": "Multi-Location Inventory MLI.md"
+                },
+                {
+                  "level": 3,
+                  "text": "Summary of the Document on Multi-Location Inventory (MLI)"
+                },
+                {
+                  "level": 4,
+                  "text": "1. Main Topics and Themes"
+                },
+                {
+                  "level": 4,
+                  "text": "2. Key Concepts Explained"
+                },
+                {
+                  "level": 4,
+                  "text": "3. Important Code Examples or Technical Details"
+                },
+                {
+                  "level": 4,
+                  "text": "4. Document Structure and Organization"
+                },
+                {
+                  "level": 4,
+                  "text": "5. How This Content Relates to Its Section"
+                },
+                {
+                  "level": 4,
+                  "text": "Get started with Multi-Location Inventory.md"
+                },
+                {
+                  "level": 3,
+                  "text": "Summary of the Document: Get Started with Multi-Location Inventory"
+                },
+                {
+                  "level": 4,
+                  "text": "1. Main Topics and Themes"
+                },
+                {
+                  "level": 4,
+                  "text": "2. Key Concepts Explained"
+                },
+                {
+                  "level": 4,
+                  "text": "3. Important Code Examples or Technical Details"
+                },
+                {
+                  "level": 4,
+                  "text": "4. Document Structure and Organization"
+                },
+                {
+                  "level": 4,
+                  "text": "5. How This Content Relates to Its Section"
+                },
+                {
+                  "level": 4,
+                  "text": "Seller Fulfilled Prime.md"
+                },
+                {
+                  "level": 3,
+                  "text": "Summary of the Document"
+                }
+              ],
+              "cross_references": {
+                "internal": {
+                  "links": []
+                },
+                "external": {
+                  "links": []
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "title": "Get started with Fulfillment by Amazon FBA",
+        "path": "/home/dumball/Downloads/interface-qa-bot-main/amazon_help_pages_us/Get started with Fulfillment by Amazon FBA",
+        "documents": [
+          {
+            "title": "FBA Global Selling",
+            "filename": "FBA Global Selling.md",
+            "url": "https://sellercentral.amazon.com/help/hub/reference/GC2B5A5E29",
+            "context": {
+              "section_type": "core_fba",
+              "position": "foundation",
+              "prerequisites": [],
+              "followed_by": [],
+              "related_topics": [],
+              "headings": [
+                {
+                  "level": 1,
+                  "text": "FBA Global Selling"
+                }
+              ],
+              "cross_references": {
+                "internal": {
+                  "links": []
+                },
+                "external": {
+                  "links": []
+                }
+              }
+            }
+          },
+          {
+            "title": "FBA inventory",
+            "filename": "FBA inventory.md",
+            "url": "https://sellercentral.amazon.com/help/hub/reference/G886B7EAD6",
+            "context": {
+              "section_type": "core_fba",
+              "position": "operational",
+              "prerequisites": [],
+              "followed_by": [],
+              "related_topics": [],
+              "headings": [
+                {
+                  "level": 1,
+                  "text": "FBA inventory"
+                },
+                {
+                  "level": 2,
+                  "text": "Manage FBA inventory"
+                },
+                {
+                  "level": 2,
+                  "text": "Send inventory to Amazon"
+                },
+                {
+                  "level": 2,
+                  "text": "Track and reconcile shipments"
+                },
+                {
+                  "level": 2,
+                  "text": "Remove inventory from an Amazon fulfillment center"
+                },
+                {
+                  "level": 2,
+                  "text": "Manage Multi-Channel Fulfillment inventory"
+                },
+                {
+                  "level": 2,
+                  "text": "Manage FBA orders"
+                }
+              ],
+              "cross_references": {
+                "internal": {
+                  "links": [
+                    {
+                      "title": "Important information for international\nsellers",
+                      "path": "/gp/help/200404870"
+                    },
+                    {
+                      "title": "FBA Inventory",
+                      "path": "/inventoryplanning/manageinventoryhealth"
+                    },
+                    {
+                      "title": "Add one product at a time",
+                      "path": "/gp/help/200220550"
+                    },
+                    {
+                      "title": "List your first item",
+                      "path": "/gp/help/201218360"
+                    },
+                    {
+                      "title": "List products for FBA",
+                      "path": "/gp/help/200141220"
+                    },
+                    {
+                      "title": "List FBA products in bulk",
+                      "path": "/gp/help/200327780"
+                    },
+                    {
+                      "title": "Product feeds overview",
+                      "path": "/gp/help/G200986880"
+                    },
+                    {
+                      "title": "Resolve stranded inventory issues",
+                      "path": "/gp/help/GEYJTVJPWRYUTADQ"
+                    },
+                    {
+                      "title": "Fix a \"no listing\" error",
+                      "path": "/gp/help/G200252930"
+                    },
+                    {
+                      "title": "FBA capacity limits",
+                      "path": "/gp/help/GAFNWEYTJUV2GBFC"
+                    },
+                    {
+                      "title": "FBA Donations program",
+                      "path": "/gp/help/GVCFMKLPUTBXE7L5"
+                    },
+                    {
+                      "title": "Manage inventory health",
+                      "path": "/gp/help/GTMXYZN64UJL7TT6"
+                    },
+                    {
+                      "title": "FBA Inventory",
+                      "path": "/inventoryplanning/manageinventoryhealth"
+                    },
+                    {
+                      "title": "How\nAmazon receives and stores your inventory",
+                      "path": "/gp/help/G201081250"
+                    },
+                    {
+                      "title": "Send to Amazon",
+                      "path": "/gp/help/G6925SDD66GDLXJW"
+                    },
+                    {
+                      "title": "Send to Amazon",
+                      "path": "/fba/sendtoamazon/confirm_content_step"
+                    },
+                    {
+                      "title": "Send/replenish inventory to Amazon",
+                      "path": "/gp/help/201021820"
+                    },
+                    {
+                      "title": "FBA shipment creation changes to Send to Amazon",
+                      "path": "/gp/help/GF3FZUPP7UZ34AZY"
+                    },
+                    {
+                      "title": "How FBA\nworks",
+                      "path": "/learn/courses?courseId=8&moduleId=38"
+                    },
+                    {
+                      "title": "Track your shipment",
+                      "path": "/gp/help/201022330"
+                    },
+                    {
+                      "title": "Reconcile your shipment",
+                      "path": "/gp/help/201214140"
+                    },
+                    {
+                      "title": "Troubleshoot receiving issues",
+                      "path": "/gp/help/200795880"
+                    },
+                    {
+                      "title": "Remove inventory (overview)",
+                      "path": "/gp/help/200280650"
+                    },
+                    {
+                      "title": "Remove inventory from fulfillment centers",
+                      "path": "/gp/help/201436560"
+                    },
+                    {
+                      "title": "Remove inventory in bulk",
+                      "path": "/gp/help/200721270"
+                    },
+                    {
+                      "title": "Remove inventory automatically",
+                      "path": "/gp/help/200678710"
+                    },
+                    {
+                      "title": "Fill orders for other sales channels (Multi-Channel Fulfillment)",
+                      "path": "/gp/help/200332450"
+                    },
+                    {
+                      "title": "List products for FBA",
+                      "path": "/gp/help/200141220"
+                    },
+                    {
+                      "title": "Submit or cancel a Multi-Channel Fulfillment order",
+                      "path": "/mcf"
+                    },
+                    {
+                      "title": "Merchant Fulfillment API in SP-API",
+                      "path": "https://developer-docs.amazon.com/sp-api/docs/merchant-fulfillment-api-v0-reference"
+                    },
+                    {
+                      "title": "Manage FBA orders",
+                      "path": "/gp/help/200141600"
+                    },
+                    {
+                      "title": "Manage Orders",
+                      "path": "/gp/orders-v2/list"
+                    }
+                  ]
+                },
+                "external": {
+                  "links": [
+                    {
+                      "title": "FBA inventory",
+                      "url": "help/hub/reference/GTMXYZN64UJL7TT6"
+                    },
+                    {
+                      "title": "Selling Partner API",
+                      "url": "https://developer.amazonservices.com/gp/mws/docs.html/"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "title": "Amazon Warehousing and Distribution AWD",
+            "filename": "Amazon Warehousing and Distribution AWD.md",
+            "url": "https://sellercentral.amazon.com/help/hub/reference/G751417D73",
+            "context": {
+              "section_type": "core_fba",
+              "position": "foundation",
+              "prerequisites": [],
+              "followed_by": [],
+              "related_topics": [],
+              "headings": [
+                {
+                  "level": 1,
+                  "text": "Amazon Warehousing and Distribution (AWD)"
+                },
+                {
+                  "level": 2,
+                  "text": "Get started"
+                },
+                {
+                  "level": 2,
+                  "text": "Grant access to users"
+                }
+              ],
+              "cross_references": {
+                "internal": {
+                  "links": [
+                    {
+                      "title": "Amazon Warehousing and Distribution program page",
+                      "path": "/asdn/about"
+                    },
+                    {
+                      "title": "Manage service",
+                      "path": "/asdn/about"
+                    },
+                    {
+                      "title": "Send shipments to Amazon Warehousing and\nDistribution (AWD)",
+                      "path": "/gp/help/GTPL7PGKU7WUKJSW"
+                    },
+                    {
+                      "title": "Amazon Warehousing\nand distribution (AWD) inventory",
+                      "path": "/fba-inventory/gim/inventory-list"
+                    },
+                    {
+                      "title": "User permissions",
+                      "path": "/gp/account-manager/home.html/"
+                    }
+                  ]
+                },
+                "external": {
+                  "links": []
+                }
+              }
+            }
+          },
+          {
+            "title": "Ship products to Amazon",
+            "filename": "Ship products to Amazon.md",
+            "url": "https://sellercentral.amazon.com/help/hub/reference/GCE6C20131",
+            "context": {
+              "section_type": "core_fba",
+              "position": "foundation",
+              "prerequisites": [],
+              "followed_by": [],
+              "related_topics": [],
+              "headings": [
+                {
+                  "level": 1,
+                  "text": "Ship products to Amazon"
+                }
+              ],
+              "cross_references": {
+                "internal": {
+                  "links": [
+                    {
+                      "title": "List\nproducts for Fulfillment by Amazon",
+                      "path": "/gp/help/G200141220"
+                    },
+                    {
+                      "title": "Send to Amazon",
+                      "path": "/gp/help/G6925SDD66GDLXJW"
+                    },
+                    {
+                      "title": "Get started with Send to Amazon",
+                      "path": "/fba/sendtoamazon/confirm_content_step"
+                    },
+                    {
+                      "title": "The Amazon Partnered Carrier Program",
+                      "path": "/gp/help/G201119120"
+                    },
+                    {
+                      "title": "Send/replenish inventory",
+                      "path": "/gp/help/201021820"
+                    },
+                    {
+                      "title": "FBA shipment creation changes to Send to Amazon",
+                      "path": "/gp/help/GF3FZUPP7UZ34AZY"
+                    },
+                    {
+                      "title": "Unplanned services",
+                      "path": "/gp/help/G201000230"
+                    },
+                    {
+                      "title": "FBA Prep Service",
+                      "path": "/gp/help/G201023020"
+                    },
+                    {
+                      "title": "FBA\nLabel Service",
+                      "path": "/gp/help/G200483750"
+                    },
+                    {
+                      "title": "Deleted,\nmisrouted, and incomplete shipments",
+                      "path": "/gp/help/GLMEBQLNBY97ANYY"
+                    },
+                    {
+                      "title": "Shipping and routing requirements",
+                      "path": "/gp/help/G200141510"
+                    }
+                  ]
+                },
+                "external": {
+                  "links": []
+                }
+              }
+            }
+          },
+          {
+            "title": "Multi-Channel Fulfillment Fulfill orders for your sales channels",
+            "filename": "Multi-Channel Fulfillment Fulfill orders for your sales channels.md",
+            "url": "https://sellercentral.amazon.com/help/hub/reference/G93F8528A6",
+            "context": {
+              "section_type": "core_fba",
+              "position": "foundation",
+              "prerequisites": [],
+              "followed_by": [],
+              "related_topics": [],
+              "headings": [
+                {
+                  "level": 1,
+                  "text": "Multi-Channel Fulfillment: Fulfill orders for your sales channels"
+                },
+                {
+                  "level": 2,
+                  "text": "Click-to-delivery speeds"
+                },
+                {
+                  "level": 2,
+                  "text": "Listings"
+                },
+                {
+                  "level": 2,
+                  "text": "Create orders"
+                },
+                {
+                  "level": 2,
+                  "text": "Track orders"
+                },
+                {
+                  "level": 2,
+                  "text": "Cancel orders"
+                },
+                {
+                  "level": 2,
+                  "text": "Fees"
+                },
+                {
+                  "level": 2,
+                  "text": "MCF fast badges"
+                },
+                {
+                  "level": 2,
+                  "text": "Unbranded packaging"
+                },
+                {
+                  "level": 2,
+                  "text": "Carrier preference"
+                },
+                {
+                  "level": 2,
+                  "text": "Reimbursements"
+                },
+                {
+                  "level": 2,
+                  "text": "Lost orders"
+                },
+                {
+                  "level": 2,
+                  "text": "Damaged, wrong, or missing items"
+                },
+                {
+                  "level": 2,
+                  "text": "Returns"
+                },
+                {
+                  "level": 2,
+                  "text": "Integrations"
+                },
+                {
+                  "level": 2,
+                  "text": "Packing slip settings"
+                },
+                {
+                  "level": 2,
+                  "text": "More resources"
+                }
+              ],
+              "cross_references": {
+                "internal": {
+                  "links": [
+                    {
+                      "title": "program page",
+                      "path": "/mcf"
+                    },
+                    {
+                      "title": "FBA Inventory",
+                      "path": "/inventoryplanning/manageinventoryhealth"
+                    },
+                    {
+                      "title": "place an MCF\norder",
+                      "path": "/mcf/orders/create-order"
+                    },
+                    {
+                      "title": "FBA inventory",
+                      "path": "/gp/help/G201074410"
+                    },
+                    {
+                      "title": "list products for Multi-Channel fulfillment\nexclusively",
+                      "path": "/gp/help/G200141220"
+                    },
+                    {
+                      "title": "Supply Chain Portal",
+                      "path": "https://supplychain.amazon.com/"
+                    },
+                    {
+                      "title": "Dangerous goods",
+                      "path": "/gp/help/G201371860"
+                    },
+                    {
+                      "title": "Multi-\nChannel Fulfillment: Supply Chain Portal",
+                      "path": "/gp/help/GC2M7FXZ36SZG6K8"
+                    },
+                    {
+                      "title": "Send to Amazon",
+                      "path": "/gp/help/G6925SDD66GDLXJW"
+                    },
+                    {
+                      "title": "quick order\nform",
+                      "path": "/mcf/orders/create-order"
+                    },
+                    {
+                      "title": "bulk order upload",
+                      "path": "/mcf/orders/bulk-orders"
+                    },
+                    {
+                      "title": "API integrations",
+                      "path": "https://supplychain.amazon.com/integrations"
+                    },
+                    {
+                      "title": "MCF Integration Selection\nTool",
+                      "path": "/mcf/integration-selection-tool"
+                    },
+                    {
+                      "title": "quick order form",
+                      "path": "/mcf/orders/create-order"
+                    },
+                    {
+                      "title": "MCF bulk orders\nform",
+                      "path": "/mcf/orders/bulk-orders"
+                    },
+                    {
+                      "title": "Manage orders",
+                      "path": "/orders-v3/search?q=&qt=orderid&page=1"
+                    },
+                    {
+                      "title": "Manage Orders",
+                      "path": "/orders-v3/search?q=&qt=orderid&page=1"
+                    },
+                    {
+                      "title": "How to track your Multi-Channel\nFulfillment orders",
+                      "path": "https://supplychain.amazon.com/learn/how-to-track-your-\nmcf-orders"
+                    },
+                    {
+                      "title": "Manage Orders",
+                      "path": "/orders-v3/search?q=&qt=orderid&page=1"
+                    },
+                    {
+                      "title": "fulfillment fees for domestic orders",
+                      "path": "/gp/help/201112650"
+                    },
+                    {
+                      "title": "export orders",
+                      "path": "/gp/help/200804980"
+                    },
+                    {
+                      "title": "rate\ncard",
+                      "path": "https://supplychain.amazon.com/pricing"
+                    },
+                    {
+                      "title": "MCF Billing FAQ",
+                      "path": "/gp/help/GTP9V9YMVUSLWG2S"
+                    },
+                    {
+                      "title": "how to enable MCF fast\nbadges",
+                      "path": "https://supplychain.amazon.com/blog/how-to-enable-mcf-fast-badges"
+                    },
+                    {
+                      "title": "Selling Partner Support",
+                      "path": "/help/center"
+                    },
+                    {
+                      "title": "quick order form",
+                      "path": "/mcf/orders/create-order"
+                    },
+                    {
+                      "title": "Fulfillment fees for Multi-Channel Fulfillment\norders",
+                      "path": "/gp/help/201112650"
+                    },
+                    {
+                      "title": "Multi-Channel\nFulfillment settings",
+                      "path": "/gp/ssof/configuration/multi-channel-fulfillment-\nsettings.html"
+                    },
+                    {
+                      "title": "MCF API",
+                      "path": "https://developer-docs.amazon.com/sp-api/docs/fulfillment-\noutbound-api-v2020-07-01-reference"
+                    },
+                    {
+                      "title": "order creation",
+                      "path": "/mcf/orders/create-\norder/"
+                    },
+                    {
+                      "title": "Reimbursements\nreport",
+                      "path": "/reportcentral/REIMBURSEMENTS/0"
+                    },
+                    {
+                      "title": "Payments\ndashboard",
+                      "path": "/payments/dashboard/index.html/ref=xx_payments_dnav_xx"
+                    },
+                    {
+                      "title": "Remove inventory (overview)",
+                      "path": "/gp/help/G200280650"
+                    },
+                    {
+                      "title": "Get started with Fulfillment by Amazon (FBA)",
+                      "path": "/gp/help/53921"
+                    },
+                    {
+                      "title": "Selling Partner\nSupport",
+                      "path": "/help/hub/support/INTENT_DA_MultiChannelOrderIssues?"
+                    },
+                    {
+                      "title": "Selling Partner\nSupport",
+                      "path": "/help/center"
+                    },
+                    {
+                      "title": "Manage orders",
+                      "path": "/orders-v3/search?q=&qt=orderid&page=1"
+                    },
+                    {
+                      "title": "Required\nremovals",
+                      "path": "/gp/help/external/G202000820"
+                    },
+                    {
+                      "title": "FBA Customer Returns report",
+                      "path": "/reportcentral/CUSTOMER_RETURNS/0"
+                    },
+                    {
+                      "title": "MCF Integration Selection tool",
+                      "path": "/mcf/integration-selection-tool"
+                    },
+                    {
+                      "title": "Access the tool",
+                      "path": "/mcf/integration-selection-tool"
+                    },
+                    {
+                      "title": "FBA settings",
+                      "path": "/fba/settings/index.html#/"
+                    },
+                    {
+                      "title": "Multi-Channel Fulfillment settings",
+                      "path": "/gp/help/G56JCGRSP2NKQZ5A"
+                    },
+                    {
+                      "title": "New beta features for Multi-Channel Fulfillment",
+                      "path": "/gp/help/G47ZF4V7HNRY3JWD"
+                    }
+                  ]
+                },
+                "external": {
+                  "links": [
+                    {
+                      "title": "Swiship",
+                      "url": "https://www.swiship.com/track/"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "title": "FBA policies and requirements",
+            "filename": "FBA policies and requirements.md",
+            "url": "https://sellercentral.amazon.com/help/hub/reference/G24FF465A3",
+            "context": {
+              "section_type": "core_fba",
+              "position": "foundation",
+              "prerequisites": [],
+              "followed_by": [],
+              "related_topics": [],
+              "headings": [
+                {
+                  "level": 1,
+                  "text": "FBA policies and requirements"
+                },
+                {
+                  "level": 2,
+                  "text": "FBA policies"
+                },
+                {
+                  "level": 2,
+                  "text": "FBA requirements"
+                }
+              ],
+              "cross_references": {
+                "internal": {
+                  "links": [
+                    {
+                      "title": "Customer Feedback for FBA Listings",
+                      "path": "/gp/help/201101660"
+                    },
+                    {
+                      "title": "Customer Returns for Orders Placed on Amazon",
+                      "path": "/gp/help/200379860"
+                    },
+                    {
+                      "title": "FBA Lost and Damaged Inventory Reimbursement Policy",
+                      "path": "/gp/help/200213130"
+                    },
+                    {
+                      "title": "FBA Product Restrictions",
+                      "path": "/gp/help/200140860"
+                    },
+                    {
+                      "title": "Inventory Requirements",
+                      "path": "/gp/help/201100890"
+                    }
+                  ]
+                },
+                "external": {
+                  "links": []
+                }
+              }
+            }
+          },
+          {
+            "title": "FBA features services and fees",
+            "filename": "FBA features services and fees.md",
+            "url": "https://sellercentral.amazon.com/help/hub/reference/GF67CB5E01",
+            "context": {
+              "section_type": "core_fba",
+              "position": "foundation",
+              "prerequisites": [],
+              "followed_by": [],
+              "related_topics": [],
+              "headings": [
+                {
+                  "level": 1,
+                  "text": "FBA features, services, and fees"
+                },
+                {
+                  "level": 2,
+                  "text": "FBA overview"
+                },
+                {
+                  "level": 2,
+                  "text": "FBA features"
+                },
+                {
+                  "level": 2,
+                  "text": "FBA services"
+                },
+                {
+                  "level": 2,
+                  "text": "FBA fees"
+                },
+                {
+                  "level": 2,
+                  "text": "FBA fee tools"
+                }
+              ],
+              "cross_references": {
+                "internal": {
+                  "links": [
+                    {
+                      "title": "Customer service for FBA orders",
+                      "path": "/gp/help/200298130"
+                    },
+                    {
+                      "title": "Global selling",
+                      "path": "/gp/help/201101640"
+                    },
+                    {
+                      "title": "Amazon Partnered Carrier program",
+                      "path": "/gp/help/201119120"
+                    },
+                    {
+                      "title": "Multi-Channel Fulfillment",
+                      "path": "/gp/help/200332450"
+                    },
+                    {
+                      "title": "FBA Label service",
+                      "path": "/gp/help/200483750"
+                    },
+                    {
+                      "title": "FBA Prep service",
+                      "path": "/gp/help/201023020"
+                    },
+                    {
+                      "title": "FBA Repackaging service",
+                      "path": "/gp/help/201505310"
+                    },
+                    {
+                      "title": "Inbound placement service fee",
+                      "path": "/gp/help/GC3Q44PBK8BXQW3Z"
+                    },
+                    {
+                      "title": "Manual Processing service",
+                      "path": "/gp/help/G202061550"
+                    },
+                    {
+                      "title": "Scan & Label",
+                      "path": "/gp/help/G200621530"
+                    },
+                    {
+                      "title": "Fulfillment fees for FBA orders",
+                      "path": "/gp/help/GPDC3KPYAGDTVDJP"
+                    },
+                    {
+                      "title": "Monthly inventory storage fees",
+                      "path": "/gp/help/G3EDYEF6KUCFQTNM"
+                    },
+                    {
+                      "title": "Long-term storage fees",
+                      "path": "/gp/help/GJQNPA23YWVA4SBD"
+                    },
+                    {
+                      "title": "Removal order fees",
+                      "path": "/gp/help/G9W7FVTLY343ZBKN"
+                    },
+                    {
+                      "title": "disposal order\nfees",
+                      "path": "/gp/help/G5FKTA8LXU4TZPD5"
+                    },
+                    {
+                      "title": "Returns processing fees",
+                      "path": "/gp/help/G64LS955WNFT6EDP"
+                    },
+                    {
+                      "title": "Inbound defect fees",
+                      "path": "/gp/help/GL5XA3MNXAJKJE8E"
+                    },
+                    {
+                      "title": "FBA fulfillment fee changes",
+                      "path": "/gp/help/GABBX6GZPA8MSZGW"
+                    },
+                    {
+                      "title": "Revenue calculator",
+                      "path": "/gp/help/GWYBC38TZGCUNRKW"
+                    },
+                    {
+                      "title": "Visit tool",
+                      "path": "/fba/revenuecalculator/index"
+                    },
+                    {
+                      "title": "Fee Preview report",
+                      "path": "/gp/help/201115050"
+                    },
+                    {
+                      "title": "Fulfillment reports",
+                      "path": "/gp/ssof/reports.html"
+                    },
+                    {
+                      "title": "Estimated fee per unit sold widget",
+                      "path": "/gp/help/G200680700"
+                    },
+                    {
+                      "title": "Manage inventory",
+                      "path": "/inventory"
+                    },
+                    {
+                      "title": "Referral Fee Preview report",
+                      "path": "/gp/help/G201631600"
+                    },
+                    {
+                      "title": "Inventory reports",
+                      "path": "/gp/item-manager/ezdpc/openPickup.html"
+                    },
+                    {
+                      "title": "Amazon fees card",
+                      "path": "/gp/help/NG95QWKFKSAMYJV"
+                    },
+                    {
+                      "title": "Manage inventory",
+                      "path": "/inventory"
+                    },
+                    {
+                      "title": "Payments",
+                      "path": "/gp/help/G200913190"
+                    },
+                    {
+                      "title": "Visit page",
+                      "path": "/gp/payments-account/settlement-summary.html"
+                    },
+                    {
+                      "title": "Fee Explainer",
+                      "path": "/gp/help/201822160"
+                    },
+                    {
+                      "title": "Payments \u2013 Transaction View",
+                      "path": "/gp/payments-account/view-transactions.html"
+                    },
+                    {
+                      "title": "Monthly Storage Fees report",
+                      "path": "/gp/help/G202086720"
+                    },
+                    {
+                      "title": "Fulfillment reports",
+                      "path": "/gp/ssof/reports.html"
+                    },
+                    {
+                      "title": "Long-Term Storage Fee Charges report",
+                      "path": "/gp/help/200725880"
+                    },
+                    {
+                      "title": "Fulfillment reports",
+                      "path": "/gp/ssof/reports.html"
+                    },
+                    {
+                      "title": "Inventory storage overage fees report",
+                      "path": "/gp/help/GV8JEETWV9Q33CMX"
+                    },
+                    {
+                      "title": "Fulfillment reports",
+                      "path": "/gp/ssof/reports.html"
+                    },
+                    {
+                      "title": "Lithium batteries fee",
+                      "path": "/gp/help/G9RJJ3KFHSF6YRAG"
+                    },
+                    {
+                      "title": "Special handling\nfee",
+                      "path": "/gp/help/PBBZR3MDYRS8L36"
+                    }
+                  ]
+                },
+                "external": {
+                  "links": [
+                    {
+                      "title": "Reservation fee",
+                      "url": "gp/help/GM6SJGQDA625AUCJ"
+                    },
+                    {
+                      "title": "GetMyFeesEstimate API",
+                      "url": "https://docs.developer.amazonservices.com/en_US/products/Products_GetMyFeesEstimate.html"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "title": "Service and Delivery Management",
+        "path": "/home/dumball/Downloads/interface-qa-bot-main/amazon_help_pages_us/Service and Delivery Management",
+        "documents": [
+          {
+            "title": "Delivery with Services - FAQ",
+            "filename": "Delivery with Services - FAQ.md",
+            "url": "https://sellercentral.amazon.com/help/hub/reference/G1D85ADAFB",
+            "context": {
+              "section_type": "service_management",
+              "position": "operational",
+              "prerequisites": [],
+              "followed_by": [],
+              "related_topics": [],
+              "headings": [
+                {
+                  "level": 1,
+                  "text": "Delivery with Services - FAQ"
+                }
+              ],
+              "cross_references": {
+                "internal": {
+                  "links": []
+                },
+                "external": {
+                  "links": []
+                }
+              }
+            }
+          },
+          {
+            "title": "Delivery with Services - Orders",
+            "filename": "Delivery with Services - Orders.md",
+            "url": "https://sellercentral.amazon.com/help/hub/reference/GB6BF505C7",
+            "context": {
+              "section_type": "service_management",
+              "position": "foundation",
+              "prerequisites": [],
+              "followed_by": [],
+              "related_topics": [],
+              "headings": [
+                {
+                  "level": 1,
+                  "text": "Delivery with Services - Orders"
+                }
+              ],
+              "cross_references": {
+                "internal": {
+                  "links": []
+                },
+                "external": {
+                  "links": []
+                }
+              }
+            }
+          },
+          {
+            "title": "Amazon Custom returns policies",
+            "filename": "Amazon Custom returns policies.md",
+            "url": "https://sellercentral.amazon.com/help/hub/reference/G33B691740",
+            "context": {
+              "section_type": "service_management",
+              "position": "foundation",
+              "prerequisites": [],
+              "followed_by": [],
+              "related_topics": [],
+              "headings": [
+                {
+                  "level": 1,
+                  "text": "Amazon Custom returns policies"
+                },
+                {
+                  "level": 2,
+                  "text": "Additional returns policy resources:"
+                },
+                {
+                  "level": 2,
+                  "text": "Custom Products Help page guide"
+                }
+              ],
+              "cross_references": {
+                "internal": {
+                  "links": [
+                    {
+                      "title": "File a reimbursement (SAFE-T) claim",
+                      "path": "/gp/help/202109110"
+                    },
+                    {
+                      "title": "About Our Returns\nPolicies",
+                      "path": "https://www.amazon.com/gp/help/customer/display.html/?nodeId=15015721"
+                    },
+                    {
+                      "title": "Holiday Returns Policy",
+                      "path": "/gp/help/201725760"
+                    },
+                    {
+                      "title": "Manage returns",
+                      "path": "/gp/help/200708210"
+                    },
+                    {
+                      "title": "Guidelines for charging restocking fees",
+                      "path": "/gp/help/201725780"
+                    },
+                    {
+                      "title": "Custom Products",
+                      "path": "/gp/help/201757520"
+                    },
+                    {
+                      "title": "Custom Listing Guide",
+                      "path": "/gp/help/202004770"
+                    },
+                    {
+                      "title": "Enabling Bulk Customizations",
+                      "path": "/gp/help/GQMSBWT4DK5ARMXL"
+                    },
+                    {
+                      "title": "Custom: Text customization",
+                      "path": "/gp/help/G202124230"
+                    },
+                    {
+                      "title": "Custom: Image customization",
+                      "path": "/gp/help/G202124170"
+                    },
+                    {
+                      "title": "Custom: Product configuration",
+                      "path": "/gp/help/202124210"
+                    },
+                    {
+                      "title": "Fulfilling an Order using Amazon Custom",
+                      "path": "/gp/help/G201822830"
+                    }
+                  ]
+                },
+                "external": {
+                  "links": []
+                }
+              }
+            }
+          },
+          {
+            "title": "Service order best practices",
+            "filename": "Service order best practices.md",
+            "url": "https://sellercentral.amazon.com/help/hub/reference/G149B5E390",
+            "context": {
+              "section_type": "service_management",
+              "position": "foundation",
+              "prerequisites": [],
+              "followed_by": [],
+              "related_topics": [],
+              "headings": [
+                {
+                  "level": 1,
+                  "text": "Service order best practices"
+                },
+                {
+                  "level": 2,
+                  "text": "At the service location"
+                }
+              ],
+              "cross_references": {
+                "internal": {
+                  "links": [
+                    {
+                      "title": "contact us",
+                      "path": "https://sellercentral.amazon.com/gp/help/help.html?itemID=https://sellercentral.amazon.com/gp/contact-us/contact-amazon-form.html?ref=xx_contactus_foot_%5e"
+                    }
+                  ]
+                },
+                "external": {
+                  "links": []
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "title": "Inventory Management Tools",
+        "path": "/home/dumball/Downloads/interface-qa-bot-main/amazon_help_pages_us/Inventory Management Tools",
+        "documents": [
+          {
+            "title": "Manage your offers in bulk",
+            "filename": "Manage your offers in bulk.md",
+            "url": "https://sellercentral.amazon.com/help/hub/reference/GE7FFCFED1",
+            "context": {
+              "section_type": "general",
+              "position": "foundation",
+              "prerequisites": [],
+              "followed_by": [],
+              "related_topics": [],
+              "headings": [
+                {
+                  "level": 1,
+                  "text": "Manage your offers in bulk"
+                }
+              ],
+              "cross_references": {
+                "internal": {
+                  "links": [
+                    {
+                      "title": "Selling plan\ncomparison",
+                      "path": "/gp/help/64491"
+                    }
+                  ]
+                },
+                "external": {
+                  "links": []
+                }
+              }
+            }
+          },
+          {
+            "title": "Custom Report Builder",
+            "filename": "Custom Report Builder.md",
+            "url": "https://sellercentral.amazon.com/help/hub/reference/G033A6FA55",
+            "context": {
+              "section_type": "general",
+              "position": "foundation",
+              "prerequisites": [],
+              "followed_by": [],
+              "related_topics": [],
+              "headings": [
+                {
+                  "level": 1,
+                  "text": "Custom Report Builder"
+                },
+                {
+                  "level": 2,
+                  "text": "How to use the Custom Report Builder"
+                },
+                {
+                  "level": 2,
+                  "text": "Save your selections"
+                },
+                {
+                  "level": 2,
+                  "text": "Frequently asked questions"
+                },
+                {
+                  "level": 4,
+                  "text": "Where can I see my previously downloaded custom reports"
+                },
+                {
+                  "level": 4,
+                  "text": "Why can\u2019t I remove a pre-selected attribute?"
+                },
+                {
+                  "level": 4,
+                  "text": "How can I reconcile Custom Report Builder data with other reports on"
+                },
+                {
+                  "level": 4,
+                  "text": "I can\u2019t select the date range that I want."
+                },
+                {
+                  "level": 4,
+                  "text": "The data in the Custom Report Builder doesn\u2019t match with the"
+                },
+                {
+                  "level": 4,
+                  "text": "I can\u2019t find the attributes I need. How can I get them added?"
+                },
+                {
+                  "level": 2,
+                  "text": "Attributes available in the Inventory business view"
+                }
+              ],
+              "cross_references": {
+                "internal": {
+                  "links": [
+                    {
+                      "title": "Custom Report\nBuilder",
+                      "path": "/reportcentral/CUSTOM_REPORT_BUILDER/new"
+                    }
+                  ]
+                },
+                "external": {
+                  "links": []
+                }
+              }
+            }
+          },
+          {
+            "title": "Create and manage offers",
+            "filename": "Create and manage offers.md",
+            "url": "https://sellercentral.amazon.com/help/hub/reference/GB8CCBA402",
+            "context": {
+              "section_type": "general",
+              "position": "foundation",
+              "prerequisites": [],
+              "followed_by": [],
+              "related_topics": [],
+              "headings": [
+                {
+                  "level": 1,
+                  "text": "Create and manage offers"
+                }
+              ],
+              "cross_references": {
+                "internal": {
+                  "links": []
+                },
+                "external": {
+                  "links": []
+                }
+              }
+            }
+          },
+          {
+            "title": "Restock recommendation",
+            "filename": "Restock recommendation.md",
+            "url": "https://sellercentral.amazon.com/help/hub/reference/G91A3739E0",
+            "context": {
+              "section_type": "general",
+              "position": "operational",
+              "prerequisites": [],
+              "followed_by": [],
+              "related_topics": [],
+              "headings": [
+                {
+                  "level": 1,
+                  "text": "Restock recommendation"
+                },
+                {
+                  "level": 2,
+                  "text": "Frequently asked questions"
+                },
+                {
+                  "level": 4,
+                  "text": "How does Amazon generate restock recommendations for my listed products?"
+                },
+                {
+                  "level": 4,
+                  "text": "Why don\u2019t I see a restock recommendation feature for all of my products?"
+                },
+                {
+                  "level": 4,
+                  "text": "For products listed across multiple locations, how do I understand the"
+                },
+                {
+                  "level": 4,
+                  "text": "How do I interpret the multiple pieces of information on the demand"
+                },
+                {
+                  "level": 4,
+                  "text": "I don\u2019t want to view restock recommendation. How can I disable restock"
+                }
+              ],
+              "cross_references": {
+                "internal": {
+                  "links": []
+                },
+                "external": {
+                  "links": []
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "title": "Seller Flex and Alternative Fulfillment",
+        "path": "/home/dumball/Downloads/interface-qa-bot-main/amazon_help_pages_us/Seller Flex and Alternative Fulfillment",
+        "documents": [
+          {
+            "title": "Multi-Location Inventory MLI",
+            "filename": "Multi-Location Inventory MLI.md",
+            "url": "https://sellercentral.amazon.com/help/hub/reference/G1CDFDB47F",
+            "context": {
+              "section_type": "alternative_fulfillment",
+              "position": "foundation",
+              "prerequisites": [],
+              "followed_by": [],
+              "related_topics": [],
+              "headings": [
+                {
+                  "level": 1,
+                  "text": "Multi-Location Inventory (MLI)"
+                },
+                {
+                  "level": 2,
+                  "text": "Benefits of Multi-Location Inventory"
+                },
+                {
+                  "level": 2,
+                  "text": "Without MLI"
+                },
+                {
+                  "level": 2,
+                  "text": "With MLI"
+                }
+              ],
+              "cross_references": {
+                "internal": {
+                  "links": []
+                },
+                "external": {
+                  "links": []
+                }
+              }
+            }
+          },
+          {
+            "title": "Get started with Multi-Location Inventory",
+            "filename": "Get started with Multi-Location Inventory.md",
+            "url": "https://sellercentral.amazon.com/help/hub/reference/GB75BF9627",
+            "context": {
+              "section_type": "alternative_fulfillment",
+              "position": "foundation",
+              "prerequisites": [],
+              "followed_by": [],
+              "related_topics": [],
+              "headings": [
+                {
+                  "level": 1,
+                  "text": "Get started with Multi-Location Inventory"
+                }
+              ],
+              "cross_references": {
+                "internal": {
+                  "links": [
+                    {
+                      "title": "View Integration Instructions",
+                      "path": "https://developer-docs.amazon.com/sp-api/docs/mli-integration-guide"
+                    },
+                    {
+                      "title": "multilocationteam@amazon.com",
+                      "path": "mailto:multilocationteam@amazon.com"
+                    }
+                  ]
+                },
+                "external": {
+                  "links": [
+                    {
+                      "title": "Multi-Location Inventory Sign-up Form",
+                      "url": "https://amazonexteu.qualtrics.com/jfe/form/SV_4IY1OG3g51fE3L8"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "title": "Seller Fulfilled Prime",
+            "filename": "Seller Fulfilled Prime.md",
+            "url": "https://sellercentral.amazon.com/help/hub/reference/GED67A5391",
+            "context": {
+              "section_type": "alternative_fulfillment",
+              "position": "foundation",
+              "prerequisites": [],
+              "followed_by": [],
+              "related_topics": [],
+              "headings": [
+                {
+                  "level": 1,
+                  "text": "Seller Fulfilled Prime"
+                }
+              ],
+              "cross_references": {
+                "internal": {
+                  "links": [
+                    {
+                      "title": "Seller Fulfilled Prime program\npolicy",
+                      "path": "/gp/help/G201812300"
+                    },
+                    {
+                      "title": "Seller Fulfilled\nPrime trial and program enrollment",
+                      "path": "/gp/help/GEK38DWGHERUDUT6"
+                    }
+                  ]
+                },
+                "external": {
+                  "links": []
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "relationships": {
+        "fulfillment_hierarchy": {
+          "primary": "FBA",
+          "alternatives": [
+            "Seller Fulfilled Prime",
+            "Multi-Location Inventory"
+          ],
+          "supporting": [
+            "Custom returns",
+            "Delivery Services"
+          ]
+        },
+        "document_types": {
+          "foundation": [
+            "policies",
+            "requirements",
+            "getting started"
+          ],
+          "operational": [
+            "returns",
+            "delivery",
+            "inventory"
+          ],
+          "reference": [
+            "FAQ",
+            "best practices",
+            "guides"
+          ]
+        }
+      }
+    }
+  }
+}

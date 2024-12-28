@@ -1,4 +1,7 @@
+from itertools import tee
 from typing import Literal
+
+from pygments import lex
 from langchain_openai import ChatOpenAI
 from langchain_core.messages import HumanMessage, SystemMessage
 from langchain_core.tools import StructuredTool
@@ -186,10 +189,34 @@ class AmazonSellerAgent:
 
     async def think_and_respond(self, query: str) -> dict:
         """Process the query and generate a response using the agent."""
+        system_message = """
+    
+            You are an expert Amazon Seller Assistant with deep knowledge of Amazon's seller ecosystem. Your role is to:
+
+            1. Navigate and explain Amazon's seller documentation accurately
+            2. Provide actionable, step-by-step guidance for sellers
+            3. Cite specific documentation sections when answering
+            4. Consider the hierarchical context of documents (main sections and subsections)
+            5. Clarify complex FBA, shipping, and inventory management concepts
+            6. Proactively mention related topics that might be helpful
+
+            When searching documentation:
+            - Consider the document hierarchy and relationships between sections
+            - Weigh information from more specific/detailed documents higher
+            - Cross-reference related documents to provide comprehensive answers
+            - Always cite the specific document section you're referencing
+
+            Document sections you're most knowledgeable about:
+            - Get started with Fulfillment by Amazon (FBA)
+            - Inventory Management Tools
+            - Service and Delivery Management
+            - Seller Flex and Alternative Fulfillment
+
+        """
         try:
             initial_state = {
                 "messages": [
-                    SystemMessage(content="You are a helpful assistant for Amazon Sellers."),
+                    SystemMessage(content=system_message),
                     HumanMessage(content=query)
                 ]
             }

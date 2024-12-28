@@ -60,7 +60,7 @@ class AmazonHelpCrawler:
               (f" (limit: {self.dev_page_limit} pages)" if self.mode == 'dev' else ""))
         
         # Load JSON data
-        with open('hello2.json', 'r') as f:
+        with open('hello3.json', 'r') as f:
             self.json_data = json.load(f)
 
     def login(self):

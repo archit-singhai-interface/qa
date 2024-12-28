@@ -1,0 +1,99 @@
+---
+title: Children's footwear
+url: https://sellercentral.amazon.com/help/hub/reference/GK9K2S3L8J2QJW22
+section: General Documentation
+---
+
+Enter a one sentence summary describing the purpose of this page.
+
+If you list products on our store, you must comply with all federal, state,
+and local laws and our policies applicable to those products and product
+listings, including this policy.
+
+## Children’s footwear covered by this policy
+
+Children’s shoes, children’s footwear, or “shoes” are intended to protect,
+cover, and provide comfort to the foot and are designed or intended primarily
+for the use or wear by children ages 12 or younger. Children’s footwear come
+in many different sizes for babies, infants or toddlers, and older children.
+These sizes may include, but are not limited to, 0 to 13.5 (US/Canada sizing)
+and 15-39 (EU sizing). Children’s footwear can come in various fashions,
+styles, shapes.
+
+## Our policy for children’s footwear
+
+Amazon requires that all children’s footwear have been tested to and comply
+with the specific regulation or standard requirements listed below:
+
+**Product** | **Regulation/Standard requirements**  
+---|---  
+Children’s footwear |  All of the following:
+
+  * CPSIA 101 (Lead); **and**
+  * 16 CFR Part 1501 (Small Parts Testing and Labeling*); **and**
+  * CPSA Section 14(a)(5)
+
+  
+* **Required only for** children’s footwear that are designed, intended, or marketed for use by children under three years of age.
+
+## Required information
+
+We will request this information from you at any time, so we recommend that
+you have it easily accessible:
+
+  * Your company name (if applicable) and seller ID
+  * Your contact information: email address and phone number
+  * A list of all children’s footwear that you offer on our store 
+  * Product packaging and label images for all children’s footwear that you offer on our store
+    * Product images must show all sides of the product packaging
+  * Any product instructions and manuals for all children’s footwear that you offer on our store
+  * Product images or test report as evidence of compliance with mandatory tracking label requirements (CPSA Section 14(a)(5))
+  * Test reports from a CPSC-approved lab confirming that each product was tested to the regulations and standards listed above
+    * All test reports or certificates must be original and we do not accept scanned copies of documents, reports, or certificates.
+  * A [Children’s Product Certificate (CPC)](/gp/help/external/GSGB43AFZNDWD4U8) for all children’s apparel, subject to this policy, that you offer on our store
+
+## Compliance services
+
+If you need help getting compliance certifications, testing, and audits, use
+our [Service Provider Network](/gspn).
+
+## How to submit information
+
+If you receive a request from us for compliance documents, complete the
+following steps to submit the requested information:  
+
+  1. In Seller Central, select the **Performance** tab and choose **Account Health**.
+  2. Under **Manage your compliance** in the bottom right corner, click **Product Compliance Requests**.
+  3. To add compliance or appeal for a single product, click **Add/Appeal Compliance**. To add compliance or appeal for multiple products, select each product on the left hand side of the product and click **Action Selected Products** at the top of the product requirement table to make a selection about how you would like to submit documents and information.
+  4. Provide compliance documents and information in the **Provide Documents** section, or provide appeal information and documents in the **Appeal Request** section.
+  5. Click **Submit for Approval** to send your submission for review by Amazon.
+
+  
+
+**Note:** Test reports must contain images of the tested products that are
+sufficient to demonstrate that the product tested is the same as the product
+listed on the detail page.
+
+## Policy violations
+
+If you do not provide the required information by the applicable deadline, we
+may take the following actions:
+
+  * Remove the relevant product listings
+  * Suspend your ability to add new products, your listing privileges, or both
+  * Withhold any payments due to you 
+
+We reserve the right to take any further actions that may be necessary in our
+sole discretion.
+
+## Additional resources
+
+  * [Amazon services business solutions agreement](/gp/help/external/G1791)
+  * [Remove inventory overview](/gp/help/G200280650)
+  * [Fix stranded inventory](/inventoryplanning/stranded-inventory/)
+  * [The Consumer Product Safety Improvement Act (CPSIA)](https://www.cpsc.gov/Regulations-Laws--Standards/Statutes/The-Consumer-Product-Safety-Improvement-Act)
+
+**Disclaimer** : The information provided on this page does not, and is not
+intended to, constitute legal advice. All information, content, and materials
+available on this site are for general informational purposes only.
+

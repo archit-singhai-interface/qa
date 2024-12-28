@@ -38,7 +38,7 @@ app.add_middleware(
 )
 
 # Initialize the agent
-docs_path = os.path.join(os.path.dirname(__file__), "amazon_help_pages_us")
+docs_path = os.path.join(os.path.dirname(__file__), "amazon_help_pages_us_prod")
 seller_agent = AmazonSellerAgent(docs_path=docs_path)
 
 class Question(BaseModel):

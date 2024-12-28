@@ -1,3 +1,6 @@
-2024/12/26-15:03:19.380 f581 Reusing MANIFEST /home/dumball/Downloads/interface-qa-bot-main/browser_data/Default/Session Storage/MANIFEST-000001
-2024/12/26-15:03:19.381 f581 Recovering log #9
-2024/12/26-15:03:19.382 f581 Reusing old log /home/dumball/Downloads/interface-qa-bot-main/browser_data/Default/Session Storage/000009.log 
+2024/12/27-16:24:26.735 2e00 Reusing MANIFEST /home/dumball/Downloads/interface-qa-bot-main/browser_data/Default/Session Storage/MANIFEST-000001
+2024/12/27-16:24:26.738 2e00 Recovering log #9
+2024/12/27-16:24:26.740 2e00 Reusing old log /home/dumball/Downloads/interface-qa-bot-main/browser_data/Default/Session Storage/000009.log 
+2024/12/27-16:24:36.325 2e01 Level-0 table #13: started
+2024/12/27-16:24:36.331 2e01 Level-0 table #13: 21561 bytes OK
+2024/12/27-16:24:36.334 2e01 Delete type=0 #9

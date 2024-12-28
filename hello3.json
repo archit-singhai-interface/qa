@@ -1,0 +1,881 @@
+{
+    "title": "Help for Amazon Sellers",
+    "sections": [
+      {
+        "title": "Account Settings",
+        "url": "https://sellercentral.amazon.in/help/hub/reference/G181",
+        "links": [
+          {
+            "title": "Selling on Amazon",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G200421970"
+          },
+          {
+            "title": "Global seller identity verification",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GQRP483PDN88Q3M9"
+          },
+          {
+            "title": "Two-Step Verification",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G202110760"
+          },
+          {
+            "title": "Manage your account settings",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G69035"
+          },
+          {
+            "title": "Seller-fulfilled shipping",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G200342080"
+          },
+          {
+            "title": "Selling on Amazon video tutorials",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201813650"
+          },
+          {
+            "title": "Banking",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G19791"
+          },
+          {
+            "title": "Selling on Amazon reference",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G69036"
+          },
+          {
+            "title": "Amazon Services Business Solutions Agreement",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G1791"
+          },
+          {
+            "title": "Changes to the Amazon Services Business Solutions Agreement",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G47071"
+          },
+          {
+            "title": "Programme Policies",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G521"
+          },
+          {
+            "title": "Changes to program policies",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GQHQGBTD7XB7EECN"
+          },
+          {
+            "title": "Intellectual Property for Rights Owners",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GU5SQCEKADDAQRLZ"
+          },
+          {
+            "title": "International selling agreements",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GEENGDB2JGLEK3PZ"
+          },
+          {
+            "title": "Additional Guidelines",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G69G3YF8A6VG7C2Y"
+          },
+          {
+            "title": "Directive on Administrative Cooperation – 7th Amendment (DAC7)",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GM472VUSJDLG2HSB"
+          },
+          {
+            "title": "Report Infringement form: Enter ASINs in bulk",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G7BSUWMDGZZMJYNK"
+          },
+          {
+            "title": "Using the Report Infringement form",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GJFZJ63CR5BRSNAY"
+          },
+          {
+            "title": "Payments, payment reports, and fees FAQ",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G69122"
+          },
+          {
+            "title": "Payments tasks and tools",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G69038"
+          },
+          {
+            "title": "Payments reference",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G69039"
+          },
+          {
+            "title": "Acceptable bank accounts and payment service providers",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GKLETRP8MLF7CVFX"
+          },
+          {
+            "title": "Payment Service Provider FAQ",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GY8JTVAWBPQT2XFC"
+          },
+          {
+            "title": "Payment Service Provider updates",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GHP8M87Z5W6XTSTL"
+          },
+          {
+            "title": "Funds disbursement eligibility policy",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G9RA9LYBJ3QP27M6"
+          },
+          {
+            "title": "Getting Started",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G69031"
+          },
+          {
+            "title": "Tasks & Tools",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G69032"
+          },
+          {
+            "title": "Reference",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G69033"
+          },
+          {
+            "title": "Frequently Asked Questions",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G69120"
+          },
+          {
+            "title": "Amazon STEP",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GLLFE8KLFKXT63KL"
+          },
+          {
+            "title": "Link accounts",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201841950"
+          },
+          {
+            "title": "Registration requirements by marketplace",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201468460"
+          },
+          {
+            "title": "Payments for Global Accounts",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201468470"
+          },
+          {
+            "title": "Amazon EU and UK stores",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G200671260"
+          },
+          {
+            "title": "Build International Listings",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G202121570"
+          },
+          {
+            "title": "Ship and fulfil with Amazon Global Selling",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201468490"
+          },
+          {
+            "title": "Customer support and returns for international sales",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201468530"
+          },
+          {
+            "title": "Find help from external solution providers with Selling Partner Appstore",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201687890"
+          },
+          {
+            "title": "Unify Global Accounts",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GJZJNMG4UX3DXSGV"
+          },
+          {
+            "title": "Export compliance dashboard for your global business",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GBZQTUE6NHMZD239"
+          },
+          {
+            "title": "Getting started with Easy Ship",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GNCWH2JMPTZ8ZJSK"
+          },
+          {
+            "title": "Registering for Amazon Easy Ship",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201382100"
+          },
+          {
+            "title": "Easy Ship Reimbursements",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GNGNH8C8LDJZX9Q6"
+          },
+          {
+            "title": "Policies and Requirements",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201379700"
+          },
+          {
+            "title": "Handling customer feedback for items fulfilled using Amazon Easy Ship",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201382000"
+          },
+          {
+            "title": "Amazon Easy Ship Service and Runway Program Terms and Conditions",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201439100"
+          },
+          {
+            "title": "Amazon managed Customer Service for Easy Ship (Runway Programme)",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201988640"
+          },
+          {
+            "title": "Easy Ship replacements",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G202132280"
+          },
+          {
+            "title": "Fees - Return and refund policies",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G202030760"
+          },
+          {
+            "title": "Easy Ship – Dangerous goods identification guide",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GG72VMFTAX3DKJQZ"
+          },
+          {
+            "title": "Easy Ship – Dangerous goods review process",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GQL42QNJMZRB8JJV"
+          },
+          {
+            "title": "Easy Ship – Required dangerous good information and documentation",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GLXFRN2LQYDSTF86"
+          },
+          {
+            "title": "Easy Ship – Examples of products that might be regulated as dangerous goods (Hazmat)",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GNT44MZC8L2W3DF7"
+          },
+          {
+            "title": "Easy Ship – Requirements for lithium batteries and products that are shipped with lithium batteries",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GPEXWBD9A3EBPNZJ"
+          },
+          {
+            "title": "Fake order or buyer abuse check for Easy Ship or Self-Ship orders",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G8VD8Q8FL6DL72AN"
+          },
+          {
+            "title": "Easy Ship - Incorrect weight and dimensions audit",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G7ULSFEJGC9J88RJ"
+          },
+          {
+            "title": "Image reference for Easy Ship weight mismatch shipping fee clawback issues",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G8U4HJNE2A3KR7YQ"
+          },
+          {
+            "title": "Amazon Easy Ship features and fees",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201379720"
+          },
+          {
+            "title": "Easy Ship Guaranteed Delivery Program",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G202108980"
+          },
+          {
+            "title": "Easy Ship Prime",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G202128290"
+          },
+          {
+            "title": "Account Health",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G22Q22CMKZXRZ4LY"
+          },
+          {
+            "title": "Return and Refund policy for Easy Ship, Self Ship and Seller Flex",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201723330"
+          },
+          {
+            "title": "Local Shops on Amazon Program",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GB5FRWNDF9HWG2ZY"
+          },
+          {
+            "title": "Amazon WMS",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GPLGUHHWLREX42NC"
+          },
+          {
+            "title": "Selected Self Ship",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GD2YNJR2WAVXTPU6"
+          },
+          {
+            "title": "Temporary restriction on Easy Ship Prime or Local Shops Prime orders",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GWZKWQ73ASEY4NEL"
+          },
+          {
+            "title": "Customize your products feature return policy",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G37HSKLMSZXZNWGS"
+          },
+          {
+            "title": "List customized products with Amazon Custom",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201822780"
+          },
+          {
+            "title": "Fulfilling an order under Customise your product feature",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201822830"
+          },
+          {
+            "title": "Enable bulk customizations",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GQMSBWT4DK5ARMXL"
+          },
+          {
+            "title": "Product types for Customize Your Product feature",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G8XV5STEUFFS7D47"
+          },
+          {
+            "title": "Create display logic on customisations",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GZRLFLSBNRKK4VKL"
+          },
+          {
+            "title": "Pay by Invoice",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G85AAVTD69D5BKLM"
+          },
+          {
+            "title": "ADDENDUM TO AMAZON SERVICES BUSINESS SOLUTIONS AGREEMENT",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G74V5YKB5ASNF3V8"
+          },
+          {
+            "title": "Amazon Business (B2B) Selling Program - Terms and Conditions",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G938RZDLJC3PV2V6"
+          },
+          {
+            "title": "GST filing for B2B orders",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G24SPU7NGKQA2TQC"
+          },
+          {
+            "title": "B2B product opportunities",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GG6RSFHJVGD653MV"
+          },
+          {
+            "title": "Troubleshoot Amazon Business errors",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201812760"
+          },
+          {
+            "title": "B2B Central",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G202161480"
+          },
+          {
+            "title": "Features",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201741830"
+          },
+          {
+            "title": "Amazon Business glossary",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201760900"
+          },
+          {
+            "title": "Registering for Amazon Business Seller Programme",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G202089800"
+          },
+          {
+            "title": "Return policy for Amazon Business Seller Programme",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G202089880"
+          },
+          {
+            "title": "Amazon Bulk Services: Overview",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GXNDQS697S3JVFK6"
+          },
+          {
+            "title": "AmazonNow Return and Refund Policies",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G202045890"
+          },
+          {
+            "title": "Introducing Amazon Seller Rewards Program",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G202023060"
+          },
+          {
+            "title": "Frequently Asked Questions",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201975280"
+          },
+          {
+            "title": "Terms and Conditions of the Amazon Seller Rewards Programme",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GVQXZSKBL6LHT56K"
+          },
+          {
+            "title": "New Seller Incentives programme",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G678XEVC7MB2RQWT"
+          },
+          {
+            "title": "New Seller Incentives: Frequently Asked Questions",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GFE3GBTV9SRJAQH2"
+          },
+          {
+            "title": "Amazon Renewed Program - Terms & Conditions",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G202189310"
+          },
+          {
+            "title": "Amazon Renewed Programme - Help FAQs",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G202189320"
+          },
+          {
+            "title": "Amazon Renewed Listing Guide",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GS2VH9VRECVAMY5F"
+          },
+          {
+            "title": "Amazon Renewed Program - Seller Qualification Criteria",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G202189330"
+          },
+          {
+            "title": "Amazon Renewed - India quality requirements",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G202189340"
+          },
+          {
+            "title": "Basic FAQs for international sellers",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G4NLXY3M9S4XGN9V"
+          },
+          {
+            "title": "No Permanent Establishment Process",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G7T25X6LL9VTXQC4"
+          }
+        ]
+      },
+      {
+        "title": "Manage Inventory",
+        "url": "https://sellercentral.amazon.in/help/hub/reference/G41",
+        "links": [
+          {
+            "title": "Featured Offer",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G37911"
+          },
+          {
+            "title": "Create and manage offers",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GFQ8J5JPKERTHQPP"
+          },
+          {
+            "title": "Manage your offers one at a time",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201186860"
+          },
+          {
+            "title": "Manage your offers in bulk",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G9DZLGS87GVDT94B"
+          },
+          {
+            "title": "Price your item",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G62551"
+          },
+          {
+            "title": "Catalogue and drafts",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G202078860"
+          },
+          {
+            "title": "Reimbursements policy during COVID-19 period (Duration : 2020)",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G4HEGWYTAWERAW24"
+          },
+          {
+            "title": "Custom Report Builder",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GEQ8JEWH5KJC5QCG"
+          },
+          {
+            "title": "Order Reports",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G651"
+          },
+          {
+            "title": "The Order Process",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G200200040"
+          },
+          {
+            "title": "Search orders",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G28151"
+          },
+          {
+            "title": "Communicate with buyers using Buyer-Seller messages",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G200389080"
+          },
+          {
+            "title": "Options for managing orders",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G200198170"
+          },
+          {
+            "title": "Your orders list",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201724060"
+          },
+          {
+            "title": "View your orders",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201724070"
+          },
+          {
+            "title": "Pending Orders",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G40571"
+          },
+          {
+            "title": "Pin Code Coverage Tool",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201506700"
+          },
+          {
+            "title": "Change Your Seller Order ID",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G200198130"
+          },
+          {
+            "title": "Using automated order workflow",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G202065810"
+          },
+          {
+            "title": "Manage Orders FAQ",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G69124"
+          },
+          {
+            "title": "",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G131"
+          },
+          {
+            "title": "Manage returns",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G200708210"
+          },
+          {
+            "title": "Manage refunds",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GU7K5N5GUP67M4X9"
+          },
+          {
+            "title": "Cancellations",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GBN4AZVWUS29ZUJX"
+          },
+          {
+            "title": "Amazon’s A-to-z Guarantee claims",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G27951"
+          },
+          {
+            "title": "STEP Performance Metrics",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GJ6VFGTPDYDKQTV3"
+          },
+          {
+            "title": "Prime Listing Customer Views %",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GP44X8TGSTCN9JBS"
+          },
+          {
+            "title": "Local In-Stock %",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GBJH94MW9JKHE3GR"
+          },
+          {
+            "title": "Total Cancellation Rate",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GYE4BNCKRN724SND"
+          },
+          {
+            "title": "Total Late Dispatch Rate",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GW8RLCYLPJVUSKD5"
+          },
+          {
+            "title": "Out of Stock",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GF8XRVRVEBSZG7PU"
+          },
+          {
+            "title": "Net Sales Volume and Net Sales Unit",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GSUD2Q9SVZMARAV3"
+          },
+          {
+            "title": "Seller-fulfilled order replacements",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G7RXSTLR9BEJLXPV"
+          },
+          {
+            "title": "E-invoice/E-waybill guidelines change starting January 1, 2021 for E-invoice eligible FBA sellers",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GDBMY7TJE7K8T69G"
+          },
+          {
+            "title": "Ship products to Amazon",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G200141420"
+          },
+          {
+            "title": "FBA policies and\n                        requirements",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201030350"
+          },
+          {
+            "title": "",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201074400"
+          },
+          {
+            "title": "Managing FBA Inventory",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201074410"
+          },
+          {
+            "title": "Multi-Channel Fulfilment: Fulfil orders for your sales channels",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G200332450"
+          },
+          {
+            "title": "Product Sampling",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GM2N7ZJQ59R7ESQP"
+          },
+          {
+            "title": "Start selling",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G69064"
+          },
+          {
+            "title": "Amazon Promotions",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G60951"
+          },
+          {
+            "title": "Seller Fulfilled Prime",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201812230"
+          },
+          {
+            "title": "Amazon Prime",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G202071500"
+          },
+          {
+            "title": "Advertise with Amazon Ads",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G200663330"
+          },
+          {
+            "title": "Amazon Deals",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G202043110"
+          },
+          {
+            "title": "Coupons",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G3QLEV6W2QK84C57"
+          },
+          {
+            "title": "Prime Exclusive Discount",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GZG6D3FZA9VSP4XH"
+          },
+          {
+            "title": "Manage Your Experiments",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GVP453K5XRBJS7Y9"
+          },
+          {
+            "title": "A+ content",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G202102930"
+          },
+          {
+            "title": "Add Warranty Details Feature on Seller Central",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G3GTEUDUFNFQBL69"
+          },
+          {
+            "title": "Amazon Vine",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G92T8UV339NZ98TN"
+          },
+          {
+            "title": "Digital Starter Kit for sellers to launch and grow on Amazon",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GNK9V7FUL5HP5HZF"
+          },
+          {
+            "title": "Buyback for Self-Ship",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GKFPB3LU8NZEZHEV"
+          },
+          {
+            "title": "No Cost EMI FAQ",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GCHLWXWWLENKQVF4"
+          },
+          {
+            "title": "Amazon Exchange Offer Program",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G202081900"
+          },
+          {
+            "title": "Cashback – Terms and Conditions",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GMDRCPP56LSN2UST"
+          },
+          {
+            "title": "Tips for Amazon sale events",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GTK7P2B845X27E4T"
+          },
+          {
+            "title": "No Cost EMI with Down Payment – FAQ",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GF9YBM9TSJT4S52A"
+          },
+          {
+            "title": "Business planner overview",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GEANBS97BNTWSBJB"
+          },
+          {
+            "title": "Business goal creation",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GRG94ATAYVWUZ5L4"
+          },
+          {
+            "title": "Additional tips for increasing sales",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G69065"
+          },
+          {
+            "title": "Additional resources for increasing sales",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G69066"
+          },
+          {
+            "title": "Seller storefront",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GPQEUNR9WQ9LSW62"
+          },
+          {
+            "title": "Amazon Bazaar",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GDJZZGNRXFYB9AG4"
+          },
+          {
+            "title": "Frequently asked questions for Amazon Bazaar",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G6N49KFXCRFTLR5G"
+          },
+          {
+            "title": "Fee structure for Amazon Bazaar",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GTMH5HGZ3H6ZLX2F"
+          },
+          {
+            "title": "Sale Event Planner",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G5GW4WV64L2Z4KXK"
+          },
+          {
+            "title": "Price discounts",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G7F8CQ4EJ5YA4272"
+          },
+          {
+            "title": "Live Shops",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GPRDMH8SC6GZXYU9"
+          },
+          {
+            "title": "FBA Subscribe & Save",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201620110"
+          },
+          {
+            "title": "SmartConnect monthly integrator scorecard and feature dashboard",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GYL4AV26PB7LUEVC"
+          },
+          {
+            "title": "Introducing Seller Flex",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G202068140"
+          },
+          {
+            "title": "Policies and Requirements",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G202067930"
+          },
+          {
+            "title": "Seller Flex Features and Fees",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G202067940"
+          },
+          {
+            "title": "Seller Flex Tutorials",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G202102220"
+          },
+          {
+            "title": "Safety and compliance verification for Amazon branded products",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GZR95BWRLUAD37C5"
+          },
+          {
+            "title": "Get started with data exchange",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G69040"
+          },
+          {
+            "title": "XML tasks and tools",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G69041"
+          },
+          {
+            "title": "XML reference",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G69042"
+          },
+          {
+            "title": "Service Provider Network",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201315320"
+          },
+          {
+            "title": "Amazon Trained Ecommerce Specialist (ATES)",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201749600"
+          },
+          {
+            "title": "Free Trainings and Recorded Training Sessions",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GSB7ZKR669EVYAZM"
+          },
+          {
+            "title": "How to start selling on Amazon.in",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GAPW9TC58C2Z993T"
+          },
+          {
+            "title": "Various ways to add your products",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GRVTENLYTV5PEA59"
+          },
+          {
+            "title": "GTIN/Product ID Exemption and Category Approvals",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G76CKD49WK7SZDV8"
+          },
+          {
+            "title": "Goods and Services Tax (GST)",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GMDEPEB6NEQBTGH4"
+          },
+          {
+            "title": "Orders, Returns and Cancellations",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GRU3ZHYTRRTUHBHN"
+          },
+          {
+            "title": "Tools to Increase your Sales",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GDW5L5TPDYXS4RL9"
+          },
+          {
+            "title": "Fulfilment by Amazon",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GDCZQBAM8YRYU3E3"
+          },
+          {
+            "title": "How to start selling globally",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GW6NFH9VGW4XGBAM"
+          },
+          {
+            "title": "Reports",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GA45BKSCNJBFKYFY"
+          },
+          {
+            "title": "Sample Plan of Actions",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GF89GRMCHVN9329J"
+          },
+          {
+            "title": "Used Program - Seller Qualification Criteria",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G202070320"
+          },
+          {
+            "title": "Used Program - Used offer Sub-conditions definitions",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G202070330"
+          },
+          {
+            "title": "Used Program - Help FAQs",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G202070340"
+          },
+          {
+            "title": "Used Program - Terms & Conditions",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G202102100"
+          },
+          {
+            "title": "Amazon Brand Registry help topics",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G5S7CQF3NUULNCY8"
+          },
+          {
+            "title": "Brand Registry glossary",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GBR82EG272SZJDFS"
+          },
+          {
+            "title": "Enrolment guidelines for accepted trademark offices",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GHUDSVJLN4U9WY8Z"
+          },
+          {
+            "title": "Brand Registry application process",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GN2GYQVPR7R4VMPB"
+          },
+          {
+            "title": "Brand Registry application step-by-step guide",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GRWHD3TXWAVKUT86"
+          },
+          {
+            "title": "Manage Brand Registry application issues",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GJPGY8BRDAQUQV4V"
+          },
+          {
+            "title": "Brand Registry enrolment error messages",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G5UAL3T9ZQWULEKF"
+          },
+          {
+            "title": "Brand Registry rejections due to abusive conduct",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G2M4ASKCSYMDL7KZ"
+          },
+          {
+            "title": "Brand Registry protection roles",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GCF9UE9VGKGA2W5F"
+          },
+          {
+            "title": "Brand Registry selling roles",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GJ84K745AL3R5N3Q"
+          },
+          {
+            "title": "Brand Registry FAQ",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G7XU99JWVLB645MU"
+          },
+          {
+            "title": "Register products to your brand",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G6DU75NSM86VXKZC"
+          },
+          {
+            "title": "Report intellectual property infringements",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G202132860"
+          },
+          {
+            "title": "Report a Violation tool: Searching for a custom list of ASINs in bulk",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GU8ZZK78DD5DUD5E"
+          },
+          {
+            "title": "Submission history FAQ",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G8JH57W4H4CXQPU5"
+          },
+          {
+            "title": "Amazon Patent Evaluation Express",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GEALWAHER4GDYZXV"
+          },
+          {
+            "title": "Add additional trademarks to your brand",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GQCYJTBSFZK8HGN6"
+          },
+          {
+            "title": "Project Zero: Guidelines and training",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GLWPXVRVZD7AWJZT"
+          },
+          {
+            "title": "Protect your brand with Transparency",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GSB2AVC33KWCAYSA"
+          },
+          {
+            "title": "Brands that require a Product ID: UPC, EAN, JAN and ISBN",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/G201440080"
+          },
+          {
+            "title": "Small Business products FAQ",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GKSCZ5A9SEBFVQHG"
+          },
+          {
+            "title": "Manage your Brands",
+            "url": "https://sellercentral.amazon.in/help/hub/reference/GF79K5R2ZLCWCPJT"
+          }
+        ]
+      }
+    ]
+  }
