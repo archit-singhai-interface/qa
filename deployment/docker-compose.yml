@@ -1,0 +1,28 @@
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./docs:/app/docs
+      - ./.env:/app/.env
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: uvicorn api:app --host 0.0.0.0 --port 8000 --reload
+
+  client:
+    build:
+      context: ./client
+      dockerfile: Dockerfile
+    ports:
+      - "80:80"
+    environment:
+      - VITE_API_URL=http://localhost:8000
+    depends_on:
+      - api
+
+networks:
+  default:
+    driver: bridge
