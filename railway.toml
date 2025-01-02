@@ -1,0 +1,22 @@
+[build]
+builder = "nixpacks"
+
+[[services]]
+name = "api"
+dockerfile_path = "deployment/Dockerfile.api"
+source_dir = "."
+healthcheck_path = "/health"
+ports = ["8000"]
+env = [
+  "PYTHONPATH=/app",
+  "PYTHONUNBUFFERED=1"
+]
+
+[[services]]
+name = "client"
+dockerfile_path = "client/Dockerfile"
+source_dir = "."
+ports = ["80"]
+env = [
+  "VITE_API_ENDPOINT=${{services.api.url}}/seller/"
+] 
